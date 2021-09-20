@@ -7,12 +7,29 @@
 }
 
 body {
-    font-family: "Bebas Neue", cursive;
+    font-family: Roboto,sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
 }
 .logo {
     float: left;
   width: 100px;
-  height: 100px;
+  height: 80px;
   
 }
+
+/* Heading and word logo*/
+
+h1, h2 {
+    font-family: "Bebas Neue", cursive;
+    text-transform: none;
+    letter-spacing: 4px;
+    color: black;
+
+}
+#logo-2 {
+    float: left;
+    font-size: 300%;
+    
+}
+
