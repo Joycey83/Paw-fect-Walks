@@ -15,25 +15,35 @@
     
     <Header>
         <a href="index.html">
-        <img class="logo" src="./assets/css/doggy logo.png" alt="Logo of a sitting down dog">
+        <img class="logo" src="./assets/css/dog paw.png" alt="Logo of a sitting down dog">
         <h1 id="logo-2">Paw-fect Walks</h1>
         </a>
-        <nav>
-            <ul>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="#">About Us</a>
-                </li>
-                <li>
-                    <a href="#">Pricing</a>
-                </li>
-                <li>
-                    <a href="#">Sign Up</a>
-                </li>
-            </ul>
-        </nav>
+        <nav class="slidemenu" id="slidemenu-2">
+  
+            <!-- Item 1 -->
+            <input type="radio" name="slideItem" id="slide-item-1" class="slide-toggle" checked/>
+            <label for="slide-item-1"><p class="icon"><i class="fas fa-dog"></i></p><span>Home</span></label>
+            
+            <!-- Item 2 -->
+            <input type="radio" name="slideItem" id="slide-item-2" class="slide-toggle"/>
+            <label for="slide-item-2"><p class="icon"><i class="fas fa-bone"></i></p><span>About</span></label>
+            
+            <!-- Item 3 -->
+            <input type="radio" name="slideItem" id="slide-item-3" class="slide-toggle"/>
+            <label for="slide-item-3"><p class="icon"><i class="fas fa-pound-sign"></i></p><span>Pricing Packages</span></label>
+            
+            <!-- Item 4 -->
+            <input type="radio" name="slideItem" id="slide-item-4" class="slide-toggle"/>
+            <label for="slide-item-4"><p class="icon"><i class="fas fa-pencil-alt"></i></p><span>Sign Up!</span></label>
+            
+            <div class="clear"></div>
+            
+            <!-- Bar -->
+            <div class="slider">
+              <div class="bar"></div>
+            </div>
+            
+          </nav>
     </Header>
     <section>
         Hero image of Dogs</section>
@@ -47,6 +57,7 @@
     <footer>
         social media links to Paw-fect
     </footer>
+    <script src="https://kit.fontawesome.com/4a97a97101.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
