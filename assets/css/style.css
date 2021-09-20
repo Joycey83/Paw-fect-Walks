@@ -62,7 +62,7 @@ h1, h2 {
     text-align: center;
     display: block;
     float: left;
-    color:#daa520;
+    color:#a52a2a;
     opacity: 0.2;
   
   }
@@ -78,15 +78,15 @@ h1, h2 {
   }
   
   .slidemenu label .icon{
-    font-size: 30px;
-    border: solid 4px #333;
+    font-size: 40px;
+    border: solid 5px #333;
     text-align: center;
     height: 50px;
     width: 50px;
     display: inline-block;
     margin: 0 auto;
     line-height: 50px;
-    border-radius: 50%;
+   
   }
   
   /*Bar Style*/
@@ -104,7 +104,7 @@ h1, h2 {
   .slider .bar{
     width: 30%;
     height: 10px;
-    background:#deb887;
+    background:#d2691e;
     border-radius:5px;
   }
   
