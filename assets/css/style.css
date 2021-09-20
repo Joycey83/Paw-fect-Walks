@@ -16,6 +16,8 @@ body {
   width: 100px;
   height: 75px;
   padding-top: 40px;
+  padding-left: 20px;
+  
   
 }
 
@@ -32,6 +34,7 @@ h1, h2 {
     float: left;
     font-size: 350%;
     padding-top: 100px;
+    
     
     
 }
@@ -111,8 +114,7 @@ h1, h2 {
   /*Animations*/
   .slidemenu label, .slider .bar {
     transition: all 500ms ease-in-out;
-    -webkit-transition: all 500ms ease-in-out;
-    -moz-transition: all 500ms ease-in-out;
+    
   }
   
   /*Toggle*/
