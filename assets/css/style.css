@@ -14,7 +14,7 @@ body {
 .logo {
     float: left;
   width: 100px;
-  height: 80px;
+  height: 75px;
   padding-top: 40px;
   
 }
@@ -36,7 +36,7 @@ h1, h2 {
     
 }
 
-/* navigation links*/
+/* navigation slide scroll bar*/
 
 
 
@@ -62,7 +62,7 @@ h1, h2 {
     text-align: center;
     display: block;
     float: left;
-    color:#333;
+    color:#daa520;
     opacity: 0.2;
   
   }
