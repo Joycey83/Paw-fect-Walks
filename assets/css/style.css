@@ -118,7 +118,7 @@ h1, h2 {
   /*Toggle*/
   
   .slidemenu .slide-toggle:checked + label{
-    opacity: 3;
+    opacity: 1;
   }
   
   
@@ -131,6 +131,6 @@ h1, h2 {
   #slidemenu-2 {
       float:right;
       padding-right: 30px;
-      padding: top 0;
+      
       
   }
