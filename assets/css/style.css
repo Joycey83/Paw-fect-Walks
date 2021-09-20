@@ -15,9 +15,7 @@ body {
     float: left;
   width: 100px;
   height: 80px;
-  padding-top: 10px;
-  padding: 10px;
-  padding-right: 20px;
+  padding-top: 40px;
   
 }
 
@@ -33,6 +31,7 @@ h1, h2 {
 #logo-2 {
     float: left;
     font-size: 350%;
+    padding-top: 100px;
     
     
 }
@@ -132,5 +131,6 @@ h1, h2 {
   #slidemenu-2 {
       float:right;
       padding-right: 30px;
+      padding: top 0;
       
   }
