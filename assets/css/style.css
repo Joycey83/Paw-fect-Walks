@@ -145,10 +145,25 @@ h1, h2 {
        float:right;
        margin-left: 30px;
        margin-right: 30px;
-       margin-top: 40px;
+       margin-top: 30px;
        line-height: 25px;
   
 
     }
     
+    .logo {
+      float:left;
+      margin-left: 20px;
+      
+    }
+
+    #logo-2 {
+      float: right;
+      margin-right: 30px;
+      padding: 10%
+    
+    
+    
+
+    }
   }
