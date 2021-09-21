@@ -137,9 +137,12 @@ h1, h2 {
       
   }
 
-  /* mobile device/tablet ( 1200px and down) */
+  
+  
+/* Extra small devices (phones, 600px and down) */
 
-  @media screen and (max-width: 1200px) {
+  
+  @media screen and (max-width: 600px) {
     .slidemenu {
        clear:left;
        float:right;
@@ -169,20 +172,12 @@ h1, h2 {
     }
   }
 
-/* Medium devices (landscape tablets, 768px and up) */
+  /* Small devices (portrait tablets and large phones, 600px and up) */
 
-
-@media screen and (min-width: 768px){
-  .slidemenu {
-    float:right
-    margin-left: 30px;
-    margin-right: 30px;
-    line-height: 25px;
-   
-
-
- }
-
-
-
-}
+  @media screen and (min-width: 600px) {
+    .slidemenu{
+      float: left;
+      margin-right: 60px;
+    }
+    
+  }
