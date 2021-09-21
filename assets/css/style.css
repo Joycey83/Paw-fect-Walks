@@ -169,3 +169,20 @@ h1, h2 {
     }
   }
 
+/* Medium devices (landscape tablets, 768px and up) */
+
+
+@media screen and (min-width: 768px){
+  .slidemenu {
+    float:right
+    margin-left: 30px;
+    margin-right: 30px;
+    line-height: 25px;
+   
+
+
+ }
+
+
+
+}
