@@ -137,9 +137,9 @@ h1, h2 {
       
   }
 
-  /* extra smaller device (phones, 600px and down) */
+  /* mobile device/tablet ( 1200px and down) */
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1200px) {
     .slidemenu {
        clear:left;
        float:right;
@@ -147,6 +147,7 @@ h1, h2 {
        margin-right: 30px;
        margin-top: 30px;
        line-height: 25px;
+      
   
 
     }
@@ -167,3 +168,4 @@ h1, h2 {
 
     }
   }
+
