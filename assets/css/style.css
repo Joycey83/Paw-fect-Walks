@@ -125,10 +125,10 @@ h1, h2 {
   
   
   
-  .slidemenu #slide-item-1:checked ~ .slider .bar{ margin-left: 0; }
-  .slidemenu #slide-item-2:checked ~ .slider .bar{ margin-left: 25%; }
-  .slidemenu #slide-item-3:checked ~ .slider .bar{ margin-left: 50%; }
-  .slidemenu #slide-item-4:checked ~ .slider .bar{ margin-left: 75%; }
+  .slidemenu #slide-button-1:checked ~ .slider .bar{ margin-left: 0; }
+  .slidemenu #slide-button-2:checked ~ .slider .bar{ margin-left: 25%; }
+  .slidemenu #slide-button-3:checked ~ .slider .bar{ margin-left: 50%; }
+  .slidemenu #slide-button-4:checked ~ .slider .bar{ margin-left: 75%; }
   
   #slidemenu-2 {
       float:right;
