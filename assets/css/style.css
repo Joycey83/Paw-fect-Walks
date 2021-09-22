@@ -142,7 +142,7 @@ h1, h2 {
 /* Extra small devices (phones, 600px and down) */
 
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1280px) {
     .slidemenu {
        clear:left;
        float:right;
@@ -172,12 +172,15 @@ h1, h2 {
     }
   }
 
-  /* Small devices (portrait tablets and large phones, 600px and up) */
+  /* Add mobile device and tablet responisve 600px up after I have content */
 
-  @media screen and (min-width: 600px) {
-    .slidemenu{
-      float: left;
-      margin-right: 60px;
-    }
-    
-  }
+  
+ 
+   @media screen and (max-device-width: 1280px) {
+     .slidemenu {
+
+     }
+       
+     
+     
+   }
