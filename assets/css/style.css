@@ -10,6 +10,8 @@ body {
     font-family: Roboto,sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    background-color: #DCDCDC
+    
 }
 .logo {
     float: left;
@@ -107,7 +109,7 @@ h1, h2 {
   .slider .bar{
     width: 30%;
     height: 10px;
-    background:#d2691e;
+    background:#8B4513;
     border-radius:5px;
   }
   
