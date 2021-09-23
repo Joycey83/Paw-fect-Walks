@@ -164,8 +164,10 @@ h1, h2 {
   top: 50%;
   right: 50%;
   
+}
+#tagline {
+  color: #a52a2a;
   
- 
 }
 
 @keyframes hero-zoom {
