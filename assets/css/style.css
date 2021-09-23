@@ -146,6 +146,7 @@ h1, h2 {
   width: 100%;
   background: url("../images/cocker-spaniel.jpg") no-repeat center center;
   background-size: cover;
+  background-position: center;
   overflow: hidden;
 
   animation-name: hero-zoom;
