@@ -141,17 +141,35 @@ h1, h2 {
 
   /* hero image of dog */
 
-
-
   #hero-image {
   height: 600px;
   width: 100%;
   background: url("../images/cocker-spaniel.jpg") no-repeat center center;
   background-size: cover;
-  
-  
+  overflow: hidden;
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
   
 }
+
+@keyframes hero-zoom {
+  from {
+transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+
+
+
+
+
+
+
+
   
   
 
