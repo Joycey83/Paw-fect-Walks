@@ -4,182 +4,14 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: content-box;
 }
 
 body {
     font-family: Roboto,sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
-    background-color: #DCDCDC
+}
     
-}
-.logo {
-    float: left;
-  width: 100px;
-  height: 75px;
-  padding-top: 40px;
-  padding-left: 20px;
-  
-  
-}
-
-/* Heading and word logo*/
-
-h1, h2 {
-    font-family: "Bebas Neue", cursive;
-    text-transform: none;
-    letter-spacing: 4px;
-    color: black;
-
-}
-#logo-2 {
-    float: left;
-    font-size: 350%;
-    padding-top: 100px;
-    
-    
-    
-}
-
-/* navigation slide scroll bar*/
-
-
-
-  
-.clear{
-    clear: both;
-  }
-  
-  
-  .slide-toggle{
-    display: none;
-  }
-  
-  .slidemenu{
-    font-family: Roboto, sans-serif;
-    max-width: 600px;
-    margin: 50px auto;
-    overflow: hidden;
-  }
-  
-  .slidemenu label{
-    width: 25%;
-    text-align: center;
-    display: block;
-    float: left;
-    color:#a52a2a;
-    opacity: 0.2;
-  
-  }
-  
-  .slidemenu label:hover{
-    cursor: pointer;
-    color: #3a3a3a;
-  }
-  
-  .slidemenu label span{
-    display: block;
-    padding: 15px;    
-  }
-  
-  .slidemenu label .icon{
-    font-size: 40px;
-    border: solid 5px #333;
-    text-align: center;
-    height: 50px;
-    width: 50px;
-    display: inline-block;
-    margin: 0 auto;
-    line-height: 50px;
-   
-  }
-  
-  /*Bar Style*/
-  
-  .slider{
-    width: 100%;
-    height: 5px;
-    display: block;
-    background: #ccc;
-    margin-top: 10px;
-    border-radius: 5px;
-    
-  }
-  
-  .slider .bar{
-    width: 30%;
-    height: 10px;
-    background: #8B4513;
-    border-radius:5px;
-  }
-  
-  /*Animations*/
-  .slidemenu label, .slider .bar {
-    transition: all 500ms ease-in-out;
-    
-  }
-  
-  /*Toggle*/
-  
-  .slidemenu .slide-toggle:checked + label{
-    opacity: 1;
-  }
-  
-  
-  
-  .slidemenu #slide-button-1:checked ~ .slider .bar{ margin-left: 0; }
-  .slidemenu #slide-button-2:checked ~ .slider .bar{ margin-left: 25%; }
-  .slidemenu #slide-button-3:checked ~ .slider .bar{ margin-left: 50%; }
-  .slidemenu #slide-button-4:checked ~ .slider .bar{ margin-left: 75%; }
-  
-  #slidemenu-2 {
-      float:right;
-      padding-right: 30px;
-      
-      
-  }
-
-  /* hero image of dog */
-
-  #hero-image {
-  height: 500px;
-  width: 1600px;
-  background-image: url("../images/cocker-spaniel.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  overflow: hidden;
-
- 
-  
-}
-
-#hero-text {
-  font-size: 40px;
-  text-align: left;
-  position: absolute;
-  margin-left: 70px;
-  top: 50%;
-  right: 50%;
-  
-}
-#tagline {
-  color: #a52a2a;
-  
-}
-
-@keyframes hero-zoom {
-  from {
-transform: scale(1);
-  }
-  to {
-    transform: scale(1.1);
-  }
-}
-
-
-
-
-
 
 
 
@@ -188,5 +20,4 @@ transform: scale(1);
 
    
      
-     
-   
+    
