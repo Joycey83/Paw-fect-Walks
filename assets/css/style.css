@@ -49,26 +49,17 @@ body {
   position: relative;
   width: 60px;
   height: 60px;
-  background: url("../images/icons8-menu-24.png");
+  background: url(https://i.ibb.co/HrfVRcx/menu.png);
   background-repeat: no-repeat;
-  background-size: 30px;
-  background-position: center;
-  cursor: pointer;
-}
-
-.toggle.active {
-  background: url("../images/icons8-close-window.png");
-  background-repeat: no-repeat;
-  background-size: 30px;
-  background-position: center;
-  cursor: pointer;
 }
 
 
 
-.menu {
-  
-}
+
+
+
+
+
     
 
 
@@ -77,5 +68,4 @@ body {
   
 
    
-     
-    
+  
