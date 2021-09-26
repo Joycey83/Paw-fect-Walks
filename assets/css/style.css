@@ -25,11 +25,11 @@ nav {
 }
 
 .logo {
-  padding: 20px 22px;
-  height: 40px;
+  padding: 20px 20px;
+  height: 20px;
   float: left;
-  font-size: 25px;
-  font-weight: 200;
+  font-size: 15px;
+  font-weight: 100;
   text-transform: uppercase;
   color: brown;
 }
