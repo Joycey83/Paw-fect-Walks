@@ -36,6 +36,7 @@ nav {
 
 .logo-2 {
   display: flex;
+  float: right;
 }
 
 nav ul {
