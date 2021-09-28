@@ -117,7 +117,7 @@ nav ul .active {
   nav ul li {
     display: block;
     margin: 40px 0px;
-    line-height: 20px;
+    line-height: 10px;
   }
   #check:checked ~ ul {
     left: 0;
