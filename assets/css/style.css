@@ -115,7 +115,7 @@ nav ul .active {
   #check:checked ~ ul {
     left: 0;
   }
-  img {
+  #bg-image {
     width: 100%;
     height: auto;
   }
