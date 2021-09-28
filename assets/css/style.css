@@ -141,8 +141,8 @@ nav ul .active {
     
   
   }
-  h1 {
-    font-size: 1px;
+  nav .logo h1 {
+    font-size: 20px;
   }
 
   
