@@ -125,7 +125,10 @@ nav ul .active {
 
 
 @media screen and (max-width: 600px) {
-  
-
+  img {
+    max-width: 70%;
+    height: auto;
   }
+
+  
 }
