@@ -25,6 +25,10 @@ nav {
   float: left;
 }
 
+span {
+  color: brown;
+}
+
 nav h1 {
   font-size: 34px;
   font-weight: bold;
@@ -112,7 +116,7 @@ nav ul .active {
     left: 0;
   }
   .mobile-image {
-    background-image: url("/image/chihuahua.jpg");
+    background-image: url("../images/puppy.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
