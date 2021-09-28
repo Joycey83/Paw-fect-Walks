@@ -124,10 +124,8 @@ nav ul .active {
 /* Extra small devices (phones, 600px and down) */
 
 
-@media only screen and (max-width: 600px) {
-  .logo {
-   margin-top: -60px;
-   font-size: 5px;
+@media screen and (max-width: 600px) {
+  
 
   }
 }
