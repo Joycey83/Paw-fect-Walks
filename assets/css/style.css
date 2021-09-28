@@ -115,11 +115,8 @@ nav ul .active {
   #check:checked ~ ul {
     left: 0;
   }
-  .mobile-image {
-    background-image: url("../images/puppy.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: calc (100vh - 75px)
+  img {
+    width: 100%;
+    height: auto;
   }
 }
