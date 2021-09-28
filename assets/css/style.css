@@ -57,11 +57,15 @@ nav ul a {
 
 nav ul li a:hover {
   color: #A0522D;
+  background: rgba(139, 149, 166);
+  border-radius: 6px;
+  
 }
 
 nav ul .active {
   color:#696969;
-  border-radius: 10px;
+  background: rgba(139, 149, 166);
+  border-radius: 6px;
 }
 
 .checkbtn {
