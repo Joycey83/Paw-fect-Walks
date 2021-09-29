@@ -92,7 +92,7 @@ nav ul .active {
 /* add media queries for nav bar*/
 
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   nav {
     padding: 0px 50px;
   }
@@ -155,7 +155,5 @@ nav ul .active {
 /* Medium devices (landscape tablets, 768px and up) */
 
 @media only screen and (min-width: 768px) {
-  nav ul li {
-    
-  }
+ 
 }
