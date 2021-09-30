@@ -12,6 +12,7 @@
 body {
     font-family: Roboto,sans-serif;
     font-weight: 300;
+    background: #DCDCDC;
 }
 
 /*Navigation menu code referenced from W3school,Webmaster and Kevin Powell*/
@@ -165,39 +166,41 @@ nav ul .active {
 
 .container {
   width: 1280px;
-  height: 600px;
-  margin: 70px auto;
+  margin: 70px auto 0;
+  background:#000000;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
 .container .box {
-position: relative;
-width: 300px;
-height: 300px;
-background: #DC143C;
-margin: 10px;
-box-sizing: border-box;
-display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  box-sizing: border-box;
+  display: inline-block;
 }
 
 .container .box .image-dog {
-   position: relative;
-   overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 .container .box .image-dog img {
-   max-width: 100%;
-   object-fit: cover; width: 300px; height: 300px;
-   transition: transform 2s
+  max-width: 100%;
+  object-fit: cover; width: 300px; height: 300px;
+  transition: transform 2s;
+  border-radius: 10px;
+  border: 5px solid saddlebrown;
 }
 
 .container .box:hover .image-dog img {
-transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .container .box .dog-info {
+  position: absolute;
   position: absolute;
   top: 10px;
   left: 10px;
@@ -205,13 +208,14 @@ transform: scale(1.2);
   bottom: 10px;
   background: rgba(0, 0, 0, .8);
   transform: scaleY(0);
-  transition: transform .5s;
-}
-.container .box:hover .dog-info {
-transform: scaleY(1);
+  transition: transform 2s;
 }
 
-.container .box .dog-info .content {
+.container .box:hover .dog-info {
+  transform: scaleY(1);
+}
+
+.container .box .dog-info .info {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
@@ -220,23 +224,23 @@ transform: scaleY(1);
   color: burlywood;
 }
 
-.container .box .dog-info .content h2 {
+.container .box .dog-info .info h2 {
   margin: 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 20px;
   color: #fff;
 }
 
-.container .box .dog-info .content h3 {
+.container .box .dog-info .info h3 {
   margin: 0;
   padding: 0;
   font-size: 15px;
   color:red;
 }
 
-.container .box .dog-info .content p {
-  margin: 0;
+.container .box .dog-info .info p {
+  margin: 5px;
   padding: 0;
   font-size: 15px;
-  color:#A0522D;
+  
 }
