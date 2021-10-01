@@ -162,20 +162,21 @@ nav ul .active {
 /*Why choose paw-fect Walks 7 reason section*/
 
 .container {
-  width: 1280px;
-  margin: 50px auto 0;
-  background:#000000;
+  height: 600px;
+  margin: 70px auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   border-radius: 6px;
+ 
+  
 }
 
 .container .box {
   position: relative;
   margin: 10px;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   box-sizing: border-box;
   display: inline-block;
 }
@@ -199,10 +200,10 @@ nav ul .active {
 
 .container .box .dog-info {
   position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
   background: rgba(0, 0, 0, .8);
   transform: scaleY(0);
   transition: transform 2s;
@@ -224,14 +225,14 @@ nav ul .active {
 .container .box .dog-info .info h2 {
   margin: 0;
   padding: 0;
-  font-size: 20px;
+  font-size: 15px;
   color: #fff;
 }
 
 .container .box .dog-info .info h3 {
   margin: 0;
   padding: 0;
-  font-size: 15px;
+  font-size: 10px;
   color:red;
 }
 
