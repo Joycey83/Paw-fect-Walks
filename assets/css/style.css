@@ -269,3 +269,57 @@ nav ul .active {
   letter-spacing: 2px;
 }
 
+/* styling footer*/
+
+footer {
+  background: #000000;
+  height: auto;
+  width: 100%;
+  font-family: Roboto;
+  padding: 40px;
+  color: #A0522D;
+}
+
+.footer-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.footer-info h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-transform: capitalize;
+  line-height: 4rem;
+}
+
+.foot-info p {
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 20px;
+  font-size: 14px;
+}
+
+.social-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+
+.social-links li {
+  margin: 0 10px;
+  font-size: 2rem;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #DCDCDC;
+}
+
+.copyright {
+  text-align: center;
+}
