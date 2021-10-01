@@ -91,6 +91,7 @@ nav ul .active {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  
 }
 
 /* add media queries for nav bar*/
@@ -156,11 +157,7 @@ nav ul .active {
   }
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
 
-@media only screen and (min-width: 768px) {
- 
-}
 
 /*Why choose paw-fect Walks 7 reason section*/
 
