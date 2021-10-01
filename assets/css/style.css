@@ -245,9 +245,24 @@ nav ul .active {
 /*Price packages for customers*/
 
 #price {
-  background-image: url("../images/landscape.jpg");
+  background-image: url("../images/park.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   overflow: hidden;
 }
+
+#price div {
+  color: #DCDCDC;
+  background-color: rgba(0, 0, 0, .6);
+  width: 20%;
+  height: 250px;
+  float: left;
+  text-align: center;
+  padding: 40px 0 0 0px;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  font-family: "bebas neue";
+  letter-spacing: 2px;
+}
+
