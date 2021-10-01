@@ -241,3 +241,13 @@ nav ul .active {
   font-size: 15px;
   
 }
+
+/*Price packages for customers*/
+
+#price {
+  background-image: url("../images/landscape.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
