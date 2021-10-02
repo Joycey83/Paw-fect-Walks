@@ -163,12 +163,9 @@ nav ul .active {
 
 .container {
   max-width: 1370px;
+  min-width: 250px;
   margin: auto;
   display: block;
-  flex-direction: row;
-  flex-wrap: wrap;
- 
-  
 }
 
 .container .box {
