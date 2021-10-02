@@ -162,12 +162,12 @@ nav ul .active {
 /*Why choose paw-fect Walks 5S reason section*/
 
 .container {
+  max-width: 1370px;
   height: 600px;
   margin: auto;
   display: block;
   flex-direction: row;
   flex-wrap: wrap;
-  background: red;
  
   
 }
