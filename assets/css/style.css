@@ -163,7 +163,6 @@ nav ul .active {
 
 .container {
   max-width: 1370px;
-  height: 600px;
   margin: auto;
   display: block;
   flex-direction: row;
