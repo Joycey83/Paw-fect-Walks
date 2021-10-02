@@ -242,6 +242,31 @@ nav ul .active {
   
 }
 
+
+/*Media Queries reason section*/
+
+/*3 colums of images*/
+@media screen and (max-width: 1270px) {
+  .container{
+    width: 760px;
+  }
+   }  
+ 
+   /*2 columns of images*/
+ @media screen and (max-width: 760px) {
+  .container{
+    width: 505px;
+  }
+   }  
+   
+ /*single images in a column*/
+ @media screen and (max-width: 540px) {
+  .container{
+    width: 250px;
+  }
+   }  
+
+
 /*Price packages for customers*/
 
 #price {
@@ -266,6 +291,8 @@ nav ul .active {
   font-family: "bebas neue";
   letter-spacing: 2px;
 }
+
+
 
 /* styling footer*/
 
@@ -321,3 +348,4 @@ footer {
 .copyright {
   text-align: center;
 }
+
