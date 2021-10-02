@@ -12,7 +12,7 @@
 body {
     font-family: Roboto,sans-serif;
     font-weight: 300;
-    background: #DCDCDC;
+    /*background: #DCDCDC;*/
 }
 
 /*Navigation menu code referenced from W3school,Webmaster and Kevin Powell*/
@@ -159,15 +159,16 @@ nav ul .active {
 
 
 
-/*Why choose paw-fect Walks 7 reason section*/
+/*Why choose paw-fect Walks 5S reason section*/
 
 .container {
   height: 600px;
   margin: 70px auto;
-  display: flex;
+  display: block;
   flex-direction: row;
   flex-wrap: wrap;
   border-radius: 6px;
+  background: #000000;
  
   
 }
