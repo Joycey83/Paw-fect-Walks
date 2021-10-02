@@ -163,12 +163,11 @@ nav ul .active {
 
 .container {
   height: 600px;
-  margin: 70px auto;
+  margin: auto;
   display: block;
   flex-direction: row;
   flex-wrap: wrap;
-  border-radius: 6px;
-  background: #000000;
+  background: red;
  
   
 }
