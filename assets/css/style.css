@@ -159,8 +159,12 @@ nav ul .active {
 
 
 
-/*Why choose paw-fect Walks 5S reason section*/
+/*Why choose paw-fect Walks 5S reason section & heading*/
 
+
+h2 {
+  text-align: center;
+}
 .container {
   max-width: 1370px;
   min-width: 250px;
@@ -243,6 +247,13 @@ nav ul .active {
 /*Media Queries reason section*/
 
 /*3 colums of images*/
+
+@media screen and (max-width: 1320px) {
+  .container {
+    width: 900px;
+    
+  }
+}
 @media screen and (max-width: 1270px) {
   .container{
     width: 760px;
@@ -264,7 +275,7 @@ nav ul .active {
    }  
 
 
-/*Price packages for customers*/
+/*Acreditation*/
 
 #Acreditation {
   background: #F4A460;
@@ -276,10 +287,9 @@ nav ul .active {
 }
 
 #Acreditation div {
-  color: #DCDCDC;
-  background-color: rgba(0, 0, 0, .6);
+  color: #A0522D;
   width: 20%;
-  height: 250px;
+  height: 180px;
   float: left;
   text-align: center;
   padding: 40px 0 0 0px;
