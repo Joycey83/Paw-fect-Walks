@@ -166,6 +166,7 @@ h2 {
   font-size: 40px;
   text-align: center;
   font-family:"bebas neue";
+  letter-spacing: 3px;
   margin-top: 40px;
 }
 .container {
@@ -261,6 +262,7 @@ h2 {
   .container{
     width: 760px;
   }
+  
    }  
  
    /*2 columns of images*/
@@ -274,6 +276,13 @@ h2 {
  @media screen and (max-width: 540px) {
   .container{
     width: 250px;
+  }
+
+  
+  
+  h2 {
+    font-size: 25px;
+    letter-spacing: 2px;
   }
    }  
 
