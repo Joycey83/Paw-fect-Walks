@@ -163,7 +163,10 @@ nav ul .active {
 
 
 h2 {
+  font-size: 40px;
   text-align: center;
+  font-family:"bebas neue";
+  margin-top: 40px;
 }
 .container {
   max-width: 1370px;
@@ -298,8 +301,13 @@ h2 {
   font-family: "bebas neue";
   letter-spacing: 2px;
 }
-
-
+/*footer for mobile & tablet responisveness referenced from Love Running project with Code Intitute*/
+#Acreditation > div {
+  width: 100%;
+  clear: both;
+  height: 165px;
+  padding: 0;
+}
 
 /* styling footer*/
 
