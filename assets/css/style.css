@@ -266,7 +266,7 @@ nav ul .active {
 
 /*Price packages for customers*/
 
-#price {
+#Acreditation {
   background: #F4A460;
   background-repeat: no-repeat;
   background-size: cover;
@@ -275,7 +275,7 @@ nav ul .active {
   border-radius: 8px;
 }
 
-#price div {
+#Acreditation div {
   color: #DCDCDC;
   background-color: rgba(0, 0, 0, .6);
   width: 20%;
