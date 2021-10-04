@@ -12,7 +12,7 @@
 body {
     font-family: Roboto,sans-serif;
     font-weight: 300;
-    /*background: #DCDCDC;*/
+    background: #DCDCDC;
 }
 
 /*Navigation menu code referenced from W3school,Webmaster and Kevin Powell*/
@@ -263,6 +263,7 @@ h2 {
     width: 760px;
   }
   
+  
    }  
  
    /*2 columns of images*/
@@ -284,6 +285,9 @@ h2 {
     font-size: 25px;
     letter-spacing: 2px;
   }
+
+  
+
    }  
 
 
