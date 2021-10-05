@@ -117,6 +117,7 @@ nav ul .active {
     left: -100%;
     text-align: center;
     transition: 0.2s ease;
+    z-index: 1000;
   }
 
   nav ul li {
@@ -378,4 +379,115 @@ footer {
 .copyright {
   text-align: center;
 }
+
+/*Style for Price plan*/
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+  
+}
+
+.pricing {
+  width: 100%;
+  padding: 50px 15px;
+  background-image: url("../images/landscape.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.pricing .item {
+  width: 33.33%;
+  padding: 15px;
+  float: left;
+}
+
+.pricing .item.solo .pricing-header {
+background-color: red;
+border-radius: 8px 8px 0px 0px;
+}
+
+.pricing .item.group .pricing-header {
+  background-color:blue;
+  border-radius: 8px 8px 0px 0px;
+  }
+
+  .pricing .item.weekends .pricing-header {
+    background-color:purple;
+    border-radius: 8px 8px 0px 0px;
+    }
+.pricing .item .box {
+background-color: green;
+border-radius: 8px;
+
+}
+
+.pricing .box .pricing-header {
+  padding: 15px;
+  text-align: center;
+}
+
+.pricing .box .pricing-header h1 {
+  font-size: 25px;
+  color: #000000;
+  margin: 10px 0px;
+  text-transform: uppercase;
+}
+
+.pricing .item .box .pricing-body {
+padding: 10px;
+}
+
+.pricing .item .box .pricing-body p {
+font-size: 18px;
+margin: 0px 0px;
+padding: 5px 0px;
+text-align: center;
+border-bottom: 1px solid #A0522D;
+}
+
+
+.pricing .item .box .pricing-footer {
+  text-align: center;
+  padding: 12px;
+}
+
+.pricing .item .box .pricing-footer button {
+  border: none;
+  padding: 15px 45px;
+  color: orange;
+  font-size: 20px;
+  border-radius: 6px;
+}
+
+.pricing .item.solo .box .pricing-footer button {
+  background-color: orchid;
+}
+
+.pricing .item.group .box .pricing-footer button {
+  background-color: yellow;
+}
+
+.pricing .item.solo .box .pricing-footer button {
+  background-color: powderblue;
+}
+
+/*Responsive media queries for tablets and mobile*/
+
+@media screen and (max-width: 1200px){
+  .pricing .item {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 950px){
+  .pricing .item {
+    width: 100%;
+  }
+  
+}
+
+
+
 
