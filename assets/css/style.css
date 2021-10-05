@@ -383,7 +383,7 @@ footer {
 /*Style for Price plan*/
 
 .container {
-  max-width: 1140px;
+  width: 100%;
   margin: auto;
   
 }
@@ -394,7 +394,7 @@ footer {
   background-image: url("../images/landscape.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 1100px;
 }
 
 .pricing .item {
@@ -488,6 +488,17 @@ border-bottom: 1px solid #A0522D;
   
 }
 
-
+@media screen and (max-width: 300px){
+  .pricing .item {
+    width: 100%;
+  }
+  nav .logo h1 {
+    font-size: 15px;
+  }
+  .pricing h2 {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+}
 
 
