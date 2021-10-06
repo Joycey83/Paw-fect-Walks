@@ -512,4 +512,42 @@ border-bottom: 1px solid #A0522D;
   }
 }
 
+/* About Us page refernces taken from Youtube insert names Learn Web*/
 
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background-color:white;
+}
+
+.container .title {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 25px;
+  color: rebeccapurple;
+  letter-spacing: 1.2px;
+  padding: 40px 0px;
+}
+
+.container .title h1::after {
+  content: "";
+  height: 6px;
+  width: 180px;
+  background-color: wheat;
+  border-radius: 5px;
+  position: relative;
+  display: block;
+  margin: auto;
+}
+
+.content {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  margin: 30px auto;
+}
