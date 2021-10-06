@@ -344,11 +344,11 @@ footer {
   text-align: center;
 }
 
-.footer-info h3 {
-  font-size: 1.5rem;
+.footer-info h1 {
+  font-size: 1.2rem;
   font-weight: 300;
   text-transform: capitalize;
-  line-height: 4rem;
+  line-height: 3rem;
 }
 
 .foot-info p {
@@ -388,13 +388,19 @@ footer {
   
 }
 
+#heading {
+  color:#DCDCDC;
+  word-spacing: 15px;
+}
+
 .pricing {
   width: 100%;
   padding: 50px 15px;
-  background-image: url("../images/park-path.jpg");
+  background-image:  url("../images/park-lake.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 1100px;
+  
 }
 
 .pricing .item {
@@ -404,21 +410,21 @@ footer {
 }
 
 .pricing .item.solo .pricing-header {
-background-color: red;
+background-color: #A0522D;
 border-radius: 8px 8px 0px 0px;
 }
 
 .pricing .item.group .pricing-header {
-  background-color:blue;
+  background-color:#A9A9A9;
   border-radius: 8px 8px 0px 0px;
   }
 
   .pricing .item.weekends .pricing-header {
-    background-color:purple;
+    background-color:#708090;
     border-radius: 8px 8px 0px 0px;
     }
 .pricing .item .box {
-background-color: green;
+background-color:#FFE4C4;
 border-radius: 8px;
 
 }
@@ -456,21 +462,21 @@ border-bottom: 1px solid #A0522D;
 .pricing .item .box .pricing-footer button {
   border: none;
   padding: 15px 45px;
-  color: orange;
+  color: #000000;
   font-size: 20px;
   border-radius: 6px;
 }
 
 .pricing .item.solo .box .pricing-footer button {
-  background-color: orchid;
+  background-color: #FFFFF0;
 }
 
 .pricing .item.group .box .pricing-footer button {
-  background-color: yellow;
+  background-color: #FFFFF0;
 }
 
-.pricing .item.solo .box .pricing-footer button {
-  background-color: powderblue;
+.pricing .item.weekends .box .pricing-footer button {
+  background-color: #FFFFF0;
 }
 
 /*Responsive media queries for tablets and mobile*/
