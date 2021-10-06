@@ -551,3 +551,9 @@ border-bottom: 1px solid #A0522D;
   grid-gap: 40px;
   margin: 30px auto;
 }
+
+.content .article {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .2);
+  background-color: sandybrown;
+  padding: 20px 20px;
+}
