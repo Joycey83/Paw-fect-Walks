@@ -683,14 +683,14 @@ color: white;
       outline: none;
       padding-left: 5px;
       background: transparent;
-      color: teal;
+      color: white;
       font-size: 12px;
       font-weight: 300;
       font-family: Roboto, sans-serif;
     }
 
     .contact-in-input::placeholder {
-      color: teal;
+      color:white;
     
     }
 
@@ -703,14 +703,14 @@ color: white;
       padding-top: 5px;
       padding-left: 5px;
       background: transparent;
-      color: teal;
+      color:white;
       font-size: 12px;
       font-weight: 300;
       font-family: Roboto, sans-serif;
     }
 
     .contact-in-input-textarea::placeholder {
-      color: teal;
+      color: white;
     
     }
 
@@ -720,7 +720,7 @@ color: white;
       border: 2px solid #fff;
       outline: none;
       background: transparent;
-      color: teal;
+      color:white;
       font-size: 12px;
       font-weight: 300;
       font-family: Roboto, sans-serif;
@@ -793,6 +793,6 @@ color: white;
   }
 }
 
-}
+
     
     
