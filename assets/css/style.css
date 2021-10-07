@@ -609,3 +609,36 @@ transition: 0.2s ease;
       text-align: center;
     }
 }
+
+/*style for Contact Us section code reference Youtube insert name & code reference from Coders Coffee*/
+
+
+.body {
+  height: 100vh;
+  display: grid;
+  font-family: Roboto, sans-serif;
+}
+
+.contact-wrap {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contact-in {
+  padding: 40px 30px;
+}
+
+.contact-in:nth-child(1) {
+  flex: 30%;
+}
+
+.contact-in:nth-child(2) {
+  flex: 45%;
+}
+
+.contact-in:nth-child(3) {
+  flex: 25%;
+}
