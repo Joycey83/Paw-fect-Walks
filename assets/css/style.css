@@ -620,7 +620,7 @@ transition: 0.2s ease;
 }
 
 .contact-wrap {
-  width: 80%;
+  width: 95%;
   height: auto;
   margin: auto;
   display: flex;
@@ -649,32 +649,25 @@ transition: 0.2s ease;
 }
 
 .contact-in h1 {
-font-size: 30px;
+font-size: 25px;
 text-transform: uppercase;
 margin-bottom: 20px;
+color: white;
 }
 
 .contact-in h2 {
-  font-size: 20px;
+  font-size: 15px;
   margin-bottom: 15px;
+  color: #F4A460;
   }
 
-    .contact-in h2 i {
-      font-size: 16px;
-      width: 40px;
-      height: 40px;
-      margin-right: 10px;
-      background: #f5f5f5;
-      color: #000;
-      border-radius: 50px;
-      line-height: 40px;
-      text-align: center;
-    }
+    
 
     .contact-in p {
-      font-size: 16px;
+      font-size: 14px;
       margin-bottom: 20px;
       color: whitesmoke;
+      text-align: center;
     }
       
     .contact-in form {
@@ -736,4 +729,70 @@ margin-bottom: 20px;
 
     /* Add style to Google map iframe*/
 
+    
+    .contact-in iframe {
+      width: 300%;
+      height: 100%;
+    }
+
+    /* Media queries for Contact Us section*/
+
+   
+      /* On screens that are 992px wide */
+@media screen and (max-width: 1200px) {
+  .contact-in:nth-child(1){
+    width: 50%;
+  }
+
+  .contact-in:nth-child(2) {
+    flex: 20%;
+    
+  }
+  
+  .contact-in:nth-child(3) {
+    flex: 50%;
+   
+  }
+}
+
+@media screen and (max-width:480px) {
+  .contact-in:nth-child(1) {
+    flex: 50%;
+   
+    
+    
+  }
+  
+  .contact-in:nth-child(2) {
+    flex: 50%;
+    
+  }
+  
+  .contact-in:nth-child(3) {
+    flex: 100%;
+   
+  }
+}
+
+
+@media screen and (max-width:360px) {
+  .contact-in:nth-child(1) {
+    flex: 30%;
+   
+    
+  }
+  
+  .contact-in:nth-child(2) {
+    flex: 30%;
+    
+  }
+  
+  .contact-in:nth-child(3) {
+    flex: 50%;
+   
+  }
+}
+
+}
+    
     
