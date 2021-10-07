@@ -633,12 +633,17 @@ transition: 0.2s ease;
 
 .contact-in:nth-child(1) {
   flex: 30%;
+  background: url("../images/frenchie.jpg");
+  
+  
 }
 
 .contact-in:nth-child(2) {
   flex: 45%;
+  background: tomato;
 }
 
 .contact-in:nth-child(3) {
   flex: 25%;
+  padding: auto;
 }
