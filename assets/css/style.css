@@ -614,7 +614,7 @@ transition: 0.2s ease;
 
 
 .body {
-  height: 100vh;
+  height: 1300px;
   display: grid;
   font-family: Roboto, sans-serif;
 }
