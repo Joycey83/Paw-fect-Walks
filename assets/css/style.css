@@ -645,7 +645,7 @@ transition: 0.2s ease;
 
 .contact-in:nth-child(3) {
   flex: 25%;
-  padding: auto;
+  padding: 0;
 }
 
 .contact-in h1 {
