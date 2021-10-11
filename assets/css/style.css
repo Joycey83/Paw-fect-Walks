@@ -421,7 +421,7 @@ h2 {
  #slide4:checked ~ #bullets label:nth-child(4) {
     background: saddlebrown;
  }
- @media screen and (max-width: 900px) {
+ @media screen and (max-width: 1200px) {
     #slide1:checked ~ #controls label:nth-child(2),
     #slide2:checked ~ #controls label:nth-child(3),
     #slide3:checked ~ #controls label:nth-child(4),
@@ -436,7 +436,46 @@ h2 {
        max-width: calc(100% - 140px);
        margin: 0 auto;
     }
+
+    .slide-content h2 {
+      font-size: 20px;
+    }
+   
+    .slide-content p {
+      padding: 20px;
+      font-size: 10px;
+      text-align: center;
+    }
  }
+
+
+
+ @media screen and (max-width: 500px) {
+  #slide1:checked ~ #controls label:nth-child(2),
+  #slide2:checked ~ #controls label:nth-child(3),
+  #slide3:checked ~ #controls label:nth-child(4),
+  #slide4:checked ~ #controls label:nth-child(1),
+  #slide1:checked ~ #controls label:nth-last-child(2),
+  #slide2:checked ~ #controls label:nth-last-child(3),
+  #slide3:checked ~ #controls label:nth-last-child(4),
+  #slide4:checked ~ #controls label:nth-last-child(1) {
+     margin: 0;
+  }
+  #slides {
+     max-width: calc(100% - 140px);
+     margin: 0 auto;
+  }
+
+  .slide-content h2 {
+    font-size: 15px;
+  }
+ 
+  .slide-content p {
+    padding: 20px;
+    font-size: 10px;
+    
+  }
+}
 
 
 /*Acreditation*/
