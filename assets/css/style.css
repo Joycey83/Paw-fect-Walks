@@ -316,14 +316,21 @@ h2 {
   font-family: "bebas neue";
   letter-spacing: 2px;
 }
-/*footer for mobile & tablet responisveness referenced from Love Running project with Code Intitute*/
-#Acreditation > div {
-  width: 100%;
-  clear: both;
-  height: 165px;
-  padding: 0;
+
+#Acreditation div h2 {
+  font-size: 19px;
 }
 
+/*footer for mobile & tablet responisveness referenced from Love Running project with Code Intitute*/
+
+@media screen and (max-width: 1200px){
+  #Acreditation > div {
+    width: 100%;
+    clear: both;
+    height: 165px;
+    padding: 0;
+  }
+}
 /* styling footer code refernced from a few youtubers insert name*/
 
 footer {
