@@ -294,7 +294,62 @@ h2 {
 
    /*Client testimonal comments*/
 
-   
+   .testimonal-section {
+    display: grid;
+    height: 100%;
+    align-content: center;
+    
+  }
+    
+  .wrapper {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .wrapper .box {
+    background: brown;
+    width: calc(33% - 10px);
+    padding: 25px;
+    border-radius: 3px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
+  }
+  
+  .wrapper .box .content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+  }
+  .box .info .name {
+    font-weight: 600;
+    font-size: 17px;
+  }
+  
+  .box .info .stars {
+    margin-top: 2px;
+  }
+  .box .info .stars i {
+    color: #0f4ce4;
+  }
+  
+  
+  
+  @media (max-width: 1045px) {
+    .wrapper .box{
+      width: calc(50% - 10px);
+      margin: 10px 0;
+    }
+  }
+  @media (max-width: 762px){
+    .wrapper .box {
+      width: 100%;
+    }
+  }
 /*Acreditation*/
 
 #Acreditation {
