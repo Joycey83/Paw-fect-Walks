@@ -58,15 +58,15 @@ nav ul a {
 }
 
 nav ul li a:hover {
-  color: #A0522D;
+  color: #000000;
   background:#F4A460;
   border-radius: 6px;
   
 }
 
 nav ul .active {
-  color:#696969;
-  background: rgba(139, 149, 166);
+  color:#FFFFF0;
+  background: #D2691E;
   border-radius: 6px;
 }
 
