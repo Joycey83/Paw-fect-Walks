@@ -29,8 +29,8 @@ nav {
   float: left;
 }
 
-span {
-  color: brown;
+.color {
+  color:#F4A460;
 }
 
 nav h1 {
