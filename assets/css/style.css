@@ -35,7 +35,7 @@ nav h1 {
   font-size: 34px;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #fff;
+  color: #F4A460;
   text-transform: uppercase;
 }
 
@@ -59,7 +59,7 @@ nav ul a {
 
 nav ul li a:hover {
   color: #A0522D;
-  background: rgba(139, 149, 166);
+  background:#F4A460;
   border-radius: 6px;
   
 }
