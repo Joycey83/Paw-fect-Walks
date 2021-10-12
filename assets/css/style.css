@@ -159,7 +159,7 @@ nav ul .active {
 
 
 
-/*Why choose paw-fect Walks 5S reason section & heading*/
+/*Why choose paw-fect Walks 5 reason section & heading*/
 
 
 h2 {
@@ -236,14 +236,14 @@ h2 {
 .container .box .dog-info .info h3 {
   margin: 0;
   padding: 0;
-  font-size: 10px;
+  font-size: 12px;
   color:red;
 }
 
 .container .box .dog-info .info p {
-  margin: 5px;
+  margin: 3px;
   padding: 0;
-  font-size: 15px;
+  font-size: 12px;
   
 }
 
