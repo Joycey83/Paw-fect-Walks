@@ -314,8 +314,9 @@ h2 {
     background: brown;
     width: calc(33% - 10px);
     padding: 25px;
+    margin-bottom: 80px;
     border-radius: 3px;
-    box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.15);
   }
   
   .wrapper .box .content {
