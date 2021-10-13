@@ -713,6 +713,9 @@ transition: 0.2s ease;
 .contact-in:nth-child(1) {
   flex: 30%;
   background: url("../images/park-path.jpg");
+  opacity: 0.8;
+  
+  
   
   
 }
@@ -735,15 +738,15 @@ color: white;
 }
 
 .contact-in h2 {
-  font-size: 15px;
+  font-size: 20px;
   margin-bottom: 15px;
-  color: #F4A460;
+  color: #DAA520;
   }
 
     
 
     .contact-in p {
-      font-size: 14px;
+      font-size: 18px;
       margin-bottom: 20px;
       color: whitesmoke;
       text-align: center;
