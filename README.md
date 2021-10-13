@@ -1,8 +1,13 @@
-# Paw-fect Walks
+<h1 align="center">Paw-fect Walks</h1>
 
 Paw-fect Walks is a fictious website written in HTML and CSS. It was designed for a dog walking service for the wider community of Croydon. This website also provides walking services in neighbouring areas including Banstead, Sanderstead and Kenley. 
 
+[View the live project here.](https://joycey83.github.io/Paw-fect-Walks/)
+
 My approach for designing this website was to create it being mobile responsive first and for the webpage being accessible on a range of devices, making it easy to navigate for all users.
+
+
+<h2 align="center"><img src="/workspace/Paw-fect-Walks/assets/images/final-mock-up.PNG"></h2>
 
 -----
 # Target Audience
