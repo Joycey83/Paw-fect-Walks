@@ -7,7 +7,7 @@ Paw-fect Walks is a fictious website written in HTML and CSS. It was designed fo
 My approach for designing this website was to create it being mobile responsive first and for the webpage being accessible on a range of devices, making it easy to navigate for all users.
 
 
-<h2 align="center"><img src="/workspace/Paw-fect-Walks/assets/images/final-mock-up.PNG"></h2>
+![page mock up.](assets/images/final-mock-up.PNG)
 
 -----
 # Target Audience
