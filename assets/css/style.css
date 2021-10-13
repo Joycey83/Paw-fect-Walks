@@ -691,15 +691,15 @@ transition: 0.2s ease;
  
 }
 
-#picture {
+#bg-picture {
   background: url("../images/valley.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
-  
-  
-  
+  width: 100%;
 }
+
 .contact-wrap {
-  width: 95%;
+  width: 70%;
   height: auto;
   margin: auto;
   display: flex;
