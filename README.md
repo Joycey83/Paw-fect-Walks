@@ -6,7 +6,7 @@ My approach for designing this website was to create it being mobile responsive 
 
 -----
 # Target Audience
------
+
 
 There was a time that I think people thought of dog walkers as a luxury service.  A luxury for people who can’t be bothered walking their dog or too lazy to dedicate the time actually needed to be a dog owner.  I think those times have changed and people are more aware of both the needs of a dog and the wide variety of reasons to hire a dog walker.
 We all know that in reality, life is never simple.   For me, a dog walker was something that I had to have in place before even considering Woody & Ava coming into my life as my work pattern could vary on certain days and at short notice. It’s that complexity of life that in my own experience means people seek out a dog walker for 5 common reasons. Of course there could be many more.
@@ -24,5 +24,14 @@ Other  type of users could be customers who have families with young children bu
 
 ------
 # User Experience (UX)
+
++ ## User Stories
+
+    - ### First Time User
+    1. As a first time user, I Should be able to quickly gain an outline of what Paw-fect Walks website is about via the Home page.
+
+
+
+
 
 
