@@ -29,6 +29,11 @@ Other  type of users could be customers who have families with young children bu
 
     - ### First Time User
     1. As a first time user, I Should be able to quickly gain an outline of what Paw-fect Walks website is about via the Home page.
+    2. As a first time user, I want to be able to navigate through out the site with ease
+    3. As a first time user, I want to be able to read customer reviews to hear their thoughts on the service that is provided so that I know that they can be trusted with my dogs.
+    4. As a first time user, I should be able to get detailed information on different price packages that is on offer.
+    5. As a first time user, I should be able to contact the website and make a booking for walks or find out further information that is not listed on the website
+    6. As a first time user, I should be able to locate their social media links to see how trusted and known that they are in the local community
 
 
 
