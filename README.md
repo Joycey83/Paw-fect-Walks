@@ -40,6 +40,8 @@ Other  type of users could be customers who have families with young children bu
     5. As a first time user, I should be able to contact the website and make a booking for walks or find out further information that is not listed on the website
     6. As a first time user, I should be able to locate their social media links to see how trusted and known that they are in the local community
 
+    - ### Returning Users
+    - ### Frequent Users
 
 
 
