@@ -31,10 +31,11 @@ nav {
 
 
 
-nav h1 {
-  font-size: 34px;
+nav h2 {
+  font-size: 40px;
   font-weight: bold;
   letter-spacing: 2px;
+  margin-top: auto;
   color: #F4A460;
   text-transform: uppercase;
 }
