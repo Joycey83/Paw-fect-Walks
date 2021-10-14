@@ -608,17 +608,46 @@ border-bottom: 1px solid #A0522D;
   }
 }
 
+@media screen and (max-width: 1100px){
+  .pricing .item {
+    position: relative;
+    margin-left: 8%;
+    margin-bottom: 10%;
+    width: 40%;
+    height: 250px;
+    display: inline-block;
+  }
+}
+
 @media screen and (max-width: 950px){
   .pricing .item {
     width: 100%;
+    margin-bottom: 15%;
+
     
   }
   
 }
 
+@media screen and (min-width: 481px )and (max-width: 768px){
+  .pricing .item {
+    position: relative;
+    margin-left: 5%;
+    margin-bottom: 15%;
+    width: 40%;
+    height: 250px;
+    display: inline-block;
+  }
+}
+
+
+
+
 @media screen and (max-width: 300px){
   .pricing .item {
     width: 100%;
+    margin: left 20%;;
+    margin-bottom: 10%;
   }
   nav .logo h1 {
     font-size: 15px;
