@@ -186,6 +186,16 @@ h2 {
   display: inline-block;
 }
 
+
+.marketing .container .box{
+  position: relative;
+  margin-left: 15%;
+  width: 70%;
+  height: 250px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
 .container .box .image-dog {
   position: relative;
   overflow: hidden;
