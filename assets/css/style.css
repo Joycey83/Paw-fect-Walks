@@ -325,8 +325,17 @@ h2 {
   
   
   h2 {
+    font-size: 35px;
+    letter-spacing: 1px;
+  }
+
+  nav h2 {
     font-size: 25px;
+    font-weight: bold;
     letter-spacing: 2px;
+    margin-top: auto;
+    color: #F4A460;
+    text-transform: uppercase;
   }
 
   
