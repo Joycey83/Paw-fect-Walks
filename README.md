@@ -45,6 +45,9 @@ Other  type of users could be customers who have families with young children bu
     2. As a returning user, I want to be able to engage or be part with the Paw-fect Walk community communicating via different social media platforms such as Twitter etc.
     3. As a returning user, they should be able to get an understanding of Paw-fect Walks company values
     - ### Frequent Users
+    1. As a frequent user, I want to be able to check if there are updated new price plans or updated new price packages
+    2. As a frequent user, I want to know if the website added any new information regarding about different service that they will provide in the future for example dog bording or dog sitting
+    3. As a frequent user, I want to know if there are any changes to the website or organisation
 
 
 
