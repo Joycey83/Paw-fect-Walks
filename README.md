@@ -48,6 +48,9 @@ Other  type of users could be customers who have families with young children bu
     1. As a frequent user, I want to be able to check if there are updated new price plans or updated new price packages
     2. As a frequent user, I want to know if the website added any new information regarding about different service that they will provide in the future for example dog bording or dog sitting
     3. As a frequent user, I want to know if there are any changes to the website or organisation
+    ----
+    # Design
+    
 
 
 
