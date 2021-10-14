@@ -756,6 +756,20 @@ transition: 0.2s ease;
     }
 }
 
+@media screen and (max-width:300px) {
+
+
+  nav h2 {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-top: auto;
+    color: #F4A460;
+    text-transform: uppercase;
+  }
+}
+
+
 /*style for Contact Us section code reference Youtube insert name & code reference from Coders Coffee*/
 
 
@@ -996,3 +1010,11 @@ color: white;
     height: 100%;
   }
 }
+
+@media screen and (max-width: 300px) {
+
+  .contact-in {
+    padding: 30px 10px;
+  }
+}
+
