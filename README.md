@@ -41,6 +41,9 @@ Other  type of users could be customers who have families with young children bu
     6. As a first time user, I should be able to locate their social media links to see how trusted and known that they are in the local community
 
     - ### Returning Users
+    1. As a returning user, I want to be able to access more information regarding about the dog walking service that Paw-fect Walks will be providing on the website
+    2. As a returning user, I want to be able to engage or be part with the Paw-fect Walk community communicating via different social media platforms such as Twitter etc.
+    3. As a returning user, they should be able to get an understanding of Paw-fect Walks company values
     - ### Frequent Users
 
 
