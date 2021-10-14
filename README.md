@@ -78,7 +78,8 @@ Other  type of users could be customers who have families with young children bu
 | Tomatoe Red   |  ![#ff6347](assets/images/color-14.JPG) #ff6347 |
 
 
-+    ### Typography
++ ## Typography
+The Roboto and Babas Nueue font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Roboto was choosen as the font had a clean,sleek look and has a high readability on the website no matter which colour was used.
 
 
 
