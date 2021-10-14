@@ -54,6 +54,17 @@ Other  type of users could be customers who have families with young children bu
     + ## Colour Scheme
     The colours that are choosen are predominantly made up of different variations of White, black and brown. This colour scheme was purposely chosen because this is the tri color of all breeds of dogs. I want this type of colour scheme flowing through out my site.
 
+    ## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Sandy Brown   |  ![#F4A460](assets/images/color-1.JPG) #F4A460 |
+| Example Color |  ![#fffff0](https://via.placeholder.com/10/00b48a?text=+) #fffff0 |
+| Example Color |  ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color |  ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+
 
 
 
