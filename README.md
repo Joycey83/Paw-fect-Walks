@@ -54,19 +54,27 @@ Other  type of users could be customers who have families with young children bu
     + ## Colour Scheme
     The colours that are choosen are predominantly made up of different variations of White, black and brown. This colour scheme was purposely chosen because this is the tri color of all breeds of dogs. I want this type of colour scheme flowing through out my site.
 
+    There are an exceptions to just using variations of tri-color  I have used two different types of red one for my sub heading on the Reason section on the landing page so that the the user can read it more clearly and Tomatoe red for my contact form.
+
     ### Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Sandy Brown   |  ![#F4A460](assets/images/color-1.JPG) #f4a460 |
+| Sandy Brown   |  ![#f4a460](assets/images/color-1.JPG) #f4a460 |
 | Ivory         |  ![#fffff0](assets/images/color-2.JPG) #fffff0 |
 | Gainsboro     |  ![#dcdcdc](assets/images/color-3.JPG) #dcdcdc |
 | Black         |  ![#000000](assets/images/color-4.JPG) #000000 |
 | White         |  ![#ffffff](assets/images/color-5.JPG) #ffffff |
 | Dark Gray     |  ![#a9a9a9](assets/images/color-6.JPG) #a9a9a9 |
 | Saddle Brown  |  ![#8B4513](assets/images/color-7.JPG) #8B4513 |
-| Example Color |  ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| Example Color |  ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Sienna        |  ![#a0522d](assets/images/color-8.JPG) #a0522d |
+| Slate Gray    |  ![#708090](assets/images/color-9.JPG) #708090 |
+| Bisque        |  ![#ffe4c4](assets/images/color-10.JPG) #ffe4c4 |
+| Chocolate     |  ![#d2691e](assets/images/color-11.JPG) #d2691e |
+| Golden Rod    |  ![#daa520](assets/images/color-12.JPG) #daa520 |
+| Red           |  ![#ff0000](assets/images/color-13.JPG) #ff0000 |
+| Tomatoe Red   |  ![#ff6347](assets/images/color-14.JPG) #ff6347 |
+
 
 
 
