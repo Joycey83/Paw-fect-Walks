@@ -54,7 +54,7 @@ Other  type of users could be customers who have families with young children bu
     + ## Colour Scheme
     The colours that are choosen are predominantly made up of different variations of White, black and brown. This colour scheme was purposely chosen because this is the tri color of all breeds of dogs. I want this type of colour scheme flowing through out my site.
 
-    There are an exceptions to just using variations of tri-color  I have used two different types of red one for my sub heading on the Reason section on the landing page so that the the user can read it more clearly and Tomatoe red for my contact form.
+    There are an exceptions to just using variations of tri-color  I have used two different types of red one for my sub heading on the Reason section on the landing page so that the the user can read it more clearly and Tomatoe red for my contact form. As there is a dark background image being used for my contact info Golden Rod was used for easy readability. In total I have used 14 colours but they are just made up of three main colours of White, black and Brown. 
 
     ### Color Reference
 
