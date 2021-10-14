@@ -48,8 +48,10 @@ Other  type of users could be customers who have families with young children bu
     1. As a frequent user, I want to be able to check if there are updated new price plans or updated new price packages.
     2. As a frequent user, I want to know if the website added any new information regarding about different service that they will provide in the future for example dog bording or dog sitting.
     3. As a frequent user, I want to know if there are any changes to the website or organisation.
-    ----
+    
+    ---
     # Design
+    
     
     + ## Colour Scheme
     The colours that are choosen are predominantly made up of different variations of White, black and brown. This colour scheme was purposely chosen because this is the tri color of all breeds of dogs. I want this type of colour scheme flowing through out my site.
@@ -75,7 +77,8 @@ Other  type of users could be customers who have families with young children bu
 | Red           |  ![#ff0000](assets/images/color-13.JPG) #ff0000 |
 | Tomatoe Red   |  ![#ff6347](assets/images/color-14.JPG) #ff6347 |
 
-+ ## Typography
+
++    ### Typography
 
 
 
