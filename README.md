@@ -34,23 +34,25 @@ Other  type of users could be customers who have families with young children bu
 
     - ### First Time User
     1. As a first time user, I Should be able to quickly gain an outline of what Paw-fect Walks website is about via the Home page.
-    2. As a first time user, I want to be able to navigate through out the site with ease
+    2. As a first time user, I want to be able to navigate through out the site with ease.
     3. As a first time user, I want to be able to read customer reviews to hear their thoughts on the service that is provided so that I know that they can be trusted with my dogs.
     4. As a first time user, I should be able to get detailed information on different price packages that is on offer.
-    5. As a first time user, I should be able to contact the website and make a booking for walks or find out further information that is not listed on the website
-    6. As a first time user, I should be able to locate their social media links to see how trusted and known that they are in the local community
+    5. As a first time user, I should be able to contact the website and make a booking for walks or find out further information that is not listed on the website.
+    6. As a first time user, I should be able to locate their social media links to see how trusted and known that they are in the local community.
 
     - ### Returning Users
-    1. As a returning user, I want to be able to access more information regarding about the dog walking service that Paw-fect Walks will be providing on the website
+    1. As a returning user, I want to be able to access more information regarding about the dog walking service that Paw-fect Walks will be providing on the website.
     2. As a returning user, I want to be able to engage or be part with the Paw-fect Walk community communicating via different social media platforms such as Twitter etc.
-    3. As a returning user, they should be able to get an understanding of Paw-fect Walks company values
+    3. As a returning user, they should be able to get an understanding of Paw-fect Walks company values.
     - ### Frequent Users
-    1. As a frequent user, I want to be able to check if there are updated new price plans or updated new price packages
-    2. As a frequent user, I want to know if the website added any new information regarding about different service that they will provide in the future for example dog bording or dog sitting
-    3. As a frequent user, I want to know if there are any changes to the website or organisation
+    1. As a frequent user, I want to be able to check if there are updated new price plans or updated new price packages.
+    2. As a frequent user, I want to know if the website added any new information regarding about different service that they will provide in the future for example dog bording or dog sitting.
+    3. As a frequent user, I want to know if there are any changes to the website or organisation.
     ----
     # Design
     
+    + ## Colour Scheme
+    The colours that are choosen are predominantly made up of different variations of White, black and brown. This colour scheme was purposely chosen because this is the tri color of all breeds of dogs. I want this type of colour scheme flowing through out my site.
 
 
 
