@@ -27,7 +27,7 @@ The website hopes to attract 5 main types of customers
 
 Other  type of users could be customers who have families with young children but owns dogs but due to time contraints with work and raising a family etc. so they need a helping hand from dog walking services like Paw-fect Walks. The other type of users could be very experienced dog owners who live in the local vicinity but due to having a busy work schedule or just being busy for that particular time period those users will consider using community dog walking services like Paw-fect Walks. 
 
-------
+-----
 # User Experience (UX)
 
 + ## User Stories
