@@ -82,7 +82,7 @@ Other  type of users could be customers who have families with young children bu
 The Roboto and Babas Nueue font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Roboto was choosen as the font had a clean,sleek look and has a high readability on the website no matter which colour was used.
 
 + ## Imagery
-Throughout the website there are various background and hero imagery of different dog breeds and parks. They are designed to envoke an emotional response with the user so when they see images of dogs and parks subconciously this will make them think about their own dogs welbeing mentally and physically.
+Throughout the website there are various background and hero imagery of different dog breeds and parks. They are designed to envoke an emotional response with the user so when they see images of dogs and parks subconciously this will make them think about their own dogs welbeing from a mentally and physically point of view.
 
 + ## Wireframes
 
