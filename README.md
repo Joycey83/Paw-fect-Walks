@@ -87,8 +87,9 @@ The Roboto and Babas Nueue font is the main font used throughout the whole websi
   * Desktop
   [View Desktop Wireframes](assets/images/desktop-wireframes.jpg)
   * Tablet
-  [View Tablet Wireframes](assets/images/mobile-wireframes.jpg)
+  [View Tablet Wireframes](assets/images/tablet-wireframes.jpg)
   * Mobile
+  [View Mobile Wireframes](assets/images/mobile-wireframes.jpg)
 
 
 
