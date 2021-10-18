@@ -98,10 +98,14 @@ Throughout the website there are various background and hero imagery of differen
 ## Existing Features
 
 * Header
-  * This contains the Paw-fect Walks company heading and the navigation elements
+  * This contains the Paw-fect Walks company logo and the navigation elements
   * This section of the website introduces the user to Paw-fect Walks with a extremely large close up image of a
   Cavalier King Charles Spaniel. This striking image of the dog laying on the carpet with its big sad looking eyes looking upwards will try and trigger an emotional response with the user. This will make them think of the times when they didn't have time to take their own dogs for a walk.
-  * 
+
+  ![Logo](assets/images/logo.JPG)
+  ![Navbar Links](assets/images/navbar-links.JPG)
+  
+
 
 
 
