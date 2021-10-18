@@ -129,7 +129,8 @@ Throughout the website there are various background and hero imagery of differen
   [View 5 Reason section](assets/images/reason-section.jpg)
   * The **Testimonal** section which will enable the user to read past and current client reviews on the service that is provided so that the user will know that the company can be trusted when the dogs are in the care of the dog walkers.
   [View Testimonal section](assets/images/testimonal-section.JPG)
-  * The **Accrediation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
+  * The **Accreditation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
+  [View Accreditation section](assets/images/accreditation-section.JPG)
   
 
 
