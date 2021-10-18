@@ -141,7 +141,7 @@ Throughout the website there are various background and hero imagery of differen
   * On this page the user can find detailed information regarding about the different types of price packages that Paw-fect Walks has to offer to its protential/existing clients.
   * There 3 main types of packages for the user to choose from, Solo walks, Group walks and Weekend walks.
   * The pricing cards are designed in mind of the user, meaning that we want the user to be able to see the prices in detail but at the same time clearly and not in a confusing manner with loads of tables or drop down boxes that other competitor sites do.
-  * our design is simple it just shows 3 price cards with a large font size heading and the prices being in Roboto font which gives high readability for the user. for continuity of the flow of the site there is a striking sunny background image of the park. Also for continuity the price cards all have a background colour of variations of tri-color of Black, brown and white. 
+  * our design is simple it just shows 3 price cards with a large font size heading and the prices being in Roboto font which gives high readability for the user. for continuity of the flow of the site there is a striking sunny background image of the park which comes hand in hand with dog walking. Also for continuity the price cards all have a background colour of variations of tri-color of Black, brown and white. 
   [View Price Plan](assets/images/price.JPG)
   
 
