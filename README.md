@@ -131,6 +131,8 @@ Throughout the website there are various background and hero imagery of differen
   [View Testimonal section](assets/images/testimonal-section.JPG)
   * The **Accreditation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
   [View Accreditation section](assets/images/accreditation-section.JPG)
+  * The Accreditation section are also designed to be responsive on tablets and smaller devices.They will stack on top of each other so it will retain 100% readability.
+   [View Mobile version of Accreditation ](assets/images/mobile-accrediation.JPG)
 
 * **About Us**
   * The about us page opens up with a simple friendly introduction *Hi Fellow dog lovers!* this will enable the user to feel at ease and to let them know we are a friendly and professional company.
@@ -145,10 +147,17 @@ Throughout the website there are various background and hero imagery of differen
   [View Price Plan](assets/images/price.JPG)
 * **Contact Us**
   * On this page the user can find a contact form which the user can fill in their personal details and message the company directly.
-  * The form allows the user to either ask more information about our services or they can use the form to book walks with us. On the subject line the user just need to write the type of package and on the message all they need to write is how days they want their dogs to be walked.
-  * The user will be asked to submit their full name, email address and enter a message. Once the form is submitted the user will be taken to a Thank you page, with the full navigation links being visable,enabling them to continue their journey through the site.
+  * The form allows the user to either ask more information about our services or they can use the form to book walks with us. 
+  * The user will be asked to submit their full name, email address, enter a subject and also enter a message. Once the form is submitted the user will be taken to a Thank you page, with the full navigation links being visable,enabling them to continue their journey through the site.
   * They can also contact us through traditional channels such as by post or by phone.
   * There is also a google map, allowing the users to know where the company actually located.
+  [View Contact Us form](assets/images/contact-form.JPG)
+* **Thank You page**
+  * This page is only viewed as a result of submitting the application form on the contact page. It gives the user a confirmation of the submission and sends a positive message from Paw-fect Walks.
+  * The thank you page has the same header and footer as the homepage to let the user easily find the way back to the rest of the site.
+  [View Thank You page](assets/images/thanks.JPG)
+
+
   
   
 
