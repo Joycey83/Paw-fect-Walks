@@ -145,8 +145,11 @@ Throughout the website there are various background and hero imagery of differen
   [View Price Plan](assets/images/price.JPG)
 * **Contact Us**
   * On this page the user can find a contact form which the user can fill in their personal details and message the company directly.
-  They can also contact us through traditional channels such as by post or by phone.
+  * The form allows the user to either ask more information about our services or they can use the form to book walks with us. On the subject line the user just need to write the type of package and on the message all they need to write is how days they want their dogs to be walked.
+  * The user will be asked to submit their full name, email address and enter a message. Once the form is submitted the user will be taken to a Thank you page, with the full navigation links being visable,enabling them to continue their journey through the site.
+  * They can also contact us through traditional channels such as by post or by phone.
   * There is also a google map, allowing the users to know where the company actually located.
+  
   
 
 
