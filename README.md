@@ -131,6 +131,12 @@ Throughout the website there are various background and hero imagery of differen
   [View Testimonal section](assets/images/testimonal-section.JPG)
   * The **Accreditation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
   [View Accreditation section](assets/images/accreditation-section.JPG)
+
+  * **About Us**
+  * The about us page opens up with a simple friendly introduction *Hi Fellow dog lovers!* this will enable the user to feel at ease and to let them know we are a friendly and professional company.
+  * The **About Us** page contains a introduction about the owner of the company, why the company was set up and the safety features.
+  * The purpose is to give the user a feeling that this small independent company is flexible and capable of meeting every dog's walking needs.
+  [View About Us](assets/images/about-us.JPG)
   
 
 
