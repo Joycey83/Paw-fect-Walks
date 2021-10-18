@@ -125,18 +125,22 @@ Throughout the website there are various background and hero imagery of differen
 
 * **Home page**
   * The home page starts with the hero image and is divided into a 3 sections.
-  * The **Five Reason** section this shows 5 dog images and when you hover over them they will contain a brief explaination why the user should use choose us for providing their dog walking needs.
+  * The **Five Reason** section this shows 5 dog images and when you hover over them they will contain a brief explaination why the user should use choose us for providing their dog walking needs. The hover animation also provides a fun and effective way to draw in users attention on to the site.
   [View 5 Reason section](assets/images/reason-section.jpg)
   * The **Testimonal** section which will enable the user to read past and current client reviews on the service that is provided so that the user will know that the company can be trusted when the dogs are in the care of the dog walkers.
   [View Testimonal section](assets/images/testimonal-section.JPG)
   * The **Accreditation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
   [View Accreditation section](assets/images/accreditation-section.JPG)
 
-  * **About Us**
+* **About Us**
   * The about us page opens up with a simple friendly introduction *Hi Fellow dog lovers!* this will enable the user to feel at ease and to let them know we are a friendly and professional company.
   * The **About Us** page contains a introduction about the owner of the company, why the company was set up and the safety features.
   * The purpose is to give the user a feeling that this small independent company is flexible and capable of meeting every dog's walking needs.
   [View About Us](assets/images/about-us.JPG)
+* **Pricing**
+  * On this page the user can find detailed information regarding about the different types of price packages that Paw-fect Walks has to offer to its protential/existing clients.
+  * There 3 main types of packages for the user to choose from, Solo walks, Group walks and Weekend walks.
+  * The pricing cards are designed in mind of the user, meaning that we want the user to be able to see the prices in detail but at the same time clearly and not in a confusing manner with loads of tables or drop down boxes that other competitor sites do.
   
 
 
