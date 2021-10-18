@@ -156,6 +156,14 @@ Throughout the website there are various background and hero imagery of differen
   * This page is only viewed as a result of submitting the application form on the contact page. It gives the user a confirmation of the submission and sends a positive message from Paw-fect Walks.
   * The thank you page has the same header and footer as the homepage to let the user easily find the way back to the rest of the site.
   [View Thank You page](assets/images/thanks.JPG)
+* **The Footer**
+  * The footer, like the header, is consistent throughout the site. It contains links to Paw-fect Walks social media channels. 
+  [View Footer](assets/images/footer.JPG)
+  * It is also fully responsive across all tablet and mobile devices.
+  [View Mobile version of Footer](assets/images/mobile-footer.JPG)
+  
+
+
 
 
   
