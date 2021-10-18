@@ -103,6 +103,7 @@ Throughout the website there are various background and hero imagery of differen
   Cavalier King Charles Spaniel. This striking image of the dog laying on the carpet with its big sad looking eyes looking upwards will try and trigger an emotional response with the user. This will make them think of the times when they didn't have time to take their own dogs for a walk.
 
   ![Logo](assets/images/logo.JPG)
+  ![Hero Image](assets/images/cocker-spaniel.jpg)
   
 
   * **Navigation Bar**
