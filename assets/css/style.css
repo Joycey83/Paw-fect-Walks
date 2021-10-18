@@ -608,23 +608,31 @@ border-bottom: 1px solid #A0522D;
   }
 }
 
-@media screen and (max-width: 1100px){
+@media screen and (min-width: 951px){
   .pricing .item {
-    position: relative;
-    margin-left: 8%;
-    margin-bottom: 10%;
-    width: 40%;
-    height: 250px;
-    display: inline-block;
+    width: 29%;
+    margin-bottom: 15%;
+    margin-left: 3%;
+   
+  }
+  .container .box {
+    width:100%;
+    position:relative;
+  }
+  .item.weekends .pricing-footer{
+    margin-top:33px
   }
 }
 
-@media screen and (max-width: 950px){
+@media screen and (min-width: 769px) and (max-width: 950px){
   .pricing .item {
-    width: 100%;
+    width: 33%;
     margin-bottom: 15%;
-
-    
+   
+  }
+  .container .box {
+    width:100%;
+    position:relative;
   }
   
 }
@@ -640,14 +648,31 @@ border-bottom: 1px solid #A0522D;
   }
 }
 
-
-
-
-@media screen and (max-width: 300px){
+@media screen and (max-width: 280px){
   .pricing .item {
     width: 100%;
-    margin: left 20%;;
-    margin-bottom: 10%;
+    margin-bottom: 50px;
+    margin-left: 0%;
+  }
+  .pricing .item .box{
+    width: 100%;
+    margin: 0px;
+  }
+  .pricing .item .box .pricing-footer .button {
+    font-size: medium;
+  }
+}
+
+
+@media screen and (min-width: 281px) and (max-width: 480px){
+  .pricing .item {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 50px;
+  }
+  .pricing .item .box{
+    width: 100%;
+    margin: 0px;
   }
   nav .logo h1 {
     font-size: 15px;

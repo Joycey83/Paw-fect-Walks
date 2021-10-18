@@ -143,6 +143,8 @@ Throughout the website there are various background and hero imagery of differen
   * The pricing cards are designed in mind of the user, meaning that we want the user to be able to see the prices in detail but at the same time clearly and not in a confusing manner with loads of tables or drop down boxes that other competitor sites do.
   * our design is simple it just shows 3 price cards with a large font size heading and the prices being in Roboto font which gives high readability for the user. for continuity of the flow of the site there is a striking sunny background image of the park which comes hand in hand with dog walking. Also for continuity the price cards all have a background colour of variations of tri-color of Black, brown and white. 
   [View Price Plan](assets/images/price.JPG)
+* **Contact Us**
+  * On this page the user can find a contact form which the user can fill in
   
 
 
