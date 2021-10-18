@@ -97,12 +97,23 @@ Throughout the website there are various background and hero imagery of differen
 # Features
 ## Existing Features
 
-* Header
+* **Header**
   * This contains the Paw-fect Walks company logo and the navigation elements
   * This section of the website introduces the user to Paw-fect Walks with a extremely large close up image of a
   Cavalier King Charles Spaniel. This striking image of the dog laying on the carpet with its big sad looking eyes looking upwards will try and trigger an emotional response with the user. This will make them think of the times when they didn't have time to take their own dogs for a walk.
 
   ![Logo](assets/images/logo.JPG)
+  
+
+  * **Navigation Bar**
+  * The navigation bar consists of 4 navigation links, they are **Home**, **About Us**, **Price** and **Contact Us**.
+  * The Home link takes the user to top of the *Home page*.
+  * The **About Us** link directs the user to the about page. Also located within the *Home page*, users will have access to more information about the owner and company of Paw-fect Walks as the user reads on there is a **Read more** button when it is clicked the button will direct the user to the *price packages* that is on offer.
+  * The **Price** link directs the user to the Price page. Also located within the Home page. The price page contains detailed information on the type of prices ranging from solo walks, group walks and weekend group walks. By providing a detailed price plan this means the user can make an informed decision on the type of service that they need from our dog walking service. If they need something more tailored they can also contact us via the Contact Us page. The link is also located on navigation bar on the top of the price page.
+  * The **Contact Us** link directs users to the contact page. Also located within the *Home page*, by following through with the **Contact Us** page a contact form will be presented for the user to contact us either for more information about our services or just for a general enquiry. If the user chooses to select other pages they can do so as all other navigation links are consistently placed at the top of every page.
+
+
+
   ![Navbar Links](assets/images/navbar-links.JPG)
   
 
