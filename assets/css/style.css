@@ -1018,3 +1018,20 @@ color: white;
   }
 }
 
+/*Thank you page*/
+
+.thanks {
+  background: url("../images/valley.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1100px;
+  text-align: center;
+  color: #000000;
+  
+}
+
+.thanks p {
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+}
