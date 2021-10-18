@@ -117,6 +117,10 @@ Throughout the website there are various background and hero imagery of differen
 
   ![Navbar Links](assets/images/navbar-links.JPG)
   
+  * One of the main design element for being mobile responsive is that the navigation bar will turn into a hamburger menu when the site is viewed on tablet and mobile devices. when viewed on smaller screen the navigation bar will switch to a sliding menu which will enforce easier readability and better user experience.
+![Hamburger Menu](assets/images/mobile-menu.JPG) 
+  * When the user view the site on mobile screens that are under 700px the hero image will also change to a much smaller image of a puppy dog. By changing the image and size this will enable the site to load faster for users using smaller mobile devices. This will enable the user to have a better experience when navigating the site.
+  ![Mobile Hero Image](assets/images/mobile-hero.JPG) 
 
 
 
