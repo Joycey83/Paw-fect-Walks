@@ -108,7 +108,7 @@ Throughout the website there are various background and hero imagery of differen
 
   * **Navigation Bar**
   * The navigation bar consists of 4 navigation links, they are **Home**, **About Us**, **Price** and **Contact Us**.
-  * The Home link takes the user to top of the *Home page*.
+  * The **Home** link takes the user to top of the *Home page*.
   * The **About Us** link directs the user to the about page. Also located within the *Home page*, users will have access to more information about the owner and company of Paw-fect Walks as the user reads on there is a **Read more** button when it is clicked the button will direct the user to the *price packages* that is on offer.
   * The **Price** link directs the user to the Price page. Also located within the Home page. The price page contains detailed information on the type of prices ranging from solo walks, group walks and weekend group walks. By providing a detailed price plan this means the user can make an informed decision on the type of service that they need from our dog walking service. If they need something more tailored they can also contact us via the Contact Us page. The link is also located on navigation bar on the top of the price page.
   * The **Contact Us** link directs users to the contact page. Also located within the *Home page*, by following through with the **Contact Us** page a contact form will be presented for the user to contact us either for more information about our services or just for a general enquiry. If the user chooses to select other pages they can do so as all other navigation links are consistently placed at the top of every page.
@@ -119,8 +119,16 @@ Throughout the website there are various background and hero imagery of differen
   
   * One of the main design element for being mobile responsive is that the navigation bar will turn into a hamburger menu when the site is viewed on tablet and mobile devices. when viewed on smaller screen the navigation bar will switch to a sliding menu which will enforce easier readability and better user experience.
 ![Hamburger Menu](assets/images/mobile-menu.JPG) 
-  * When the user view the site on mobile screens that are under 700px the hero image will also change to a much smaller image of a puppy dog. By changing the image and size this will enable the site to load faster for users using smaller mobile devices. This will enable the user to have a better experience when navigating the site.
+  * When the user view the site on mobile screens that are under 700px the hero image will also change to a much smaller image of a puppy dog. By changing the image and size this will enable the site to load faster for users using smaller mobile devices. This will enable the user to have a better experience when navigating through the site.
   ![Mobile Hero Image](assets/images/mobile-hero.JPG) 
+
+
+* **Home page**
+  * The home page starts with the hero image and is divided into a 3 sections.
+  * The **Five Reason** section this shows 5 dog images and when you hover over them they will contain a brief explaination why the user should use choose us for providing their dog walking needs.
+  * The **Testimonal** section which will enable the user to read past and current client reviews on the service that is provided so that the user will know that the company can be trusted when the dogs are in the care of the dog walkers.
+  * The **Accrediation** section this will enable the user to have extra reasurrance that our company are safe that we have high standards and credability to be looking after the clients dogs.
+  
 
 
 
