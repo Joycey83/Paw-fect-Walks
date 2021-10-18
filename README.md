@@ -161,6 +161,13 @@ Throughout the website there are various background and hero imagery of differen
   [View Footer](assets/images/footer.JPG)
   * It is also fully responsive across all tablet and mobile devices.
   [View Mobile version of Footer](assets/images/mobile-footer.JPG)
+* **Features left to implement**
+
+  There are quite a few features that I like to implement in the future for this website
+  * A Paw-fect Walk blog, so I can give regular updates about my own dogs
+  * Add new services such as Dog sitting
+  * Gallery
+  * Log in
   
 
 
