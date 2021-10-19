@@ -200,12 +200,9 @@ Throughout the website there are various background and hero imagery of differen
 ----
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process I only incured 1 red error on W3C CSS and 7 yellow warnings on W3C Markup. They have all been recified and fixed during the validation process.
-
-
 * **Error**
   * I fixed this error by changing the padding from auto to 0%.
   [View Error](assets/images/CSS-warning.PNG)
-
 * **Warnings**
   * I fixed all these warnings on W3C Markup Validator by changing all H1 headings to H2 headings and for the Hero Image section I added a H2 Hidden element as I created a hero image inside a section element without a level heading.
   [View Warnings](assets/images/heading-warning.PNG)
