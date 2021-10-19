@@ -235,6 +235,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   * [Lighthouse scores for price.html](assets/images/lighthouse-price.JPG)
   * [Lighthouse scores for contact.html](assets/images/lighthouse-contact.JPG)
   * [Lighthouse scores for thanks.html ](assets/images/lighthouse-thanks.JPG)  
+
+* ## responsiveness
+  The site was tested with the Chrome Dev tool and the website Responsinator to determine how well it would look on various tablet and mobile devices.
+  * Chrome Dev Tool
+  [View ](assets/images/dev-tool.jpg) 
+  * Responsinator
+  [View ](https://www.responsinator.com/?url=https%3A%2F%2Fjoycey83.github.io%2FPaw-fect-Walks%2F)
+
 ----
 # Testing User Stories from User Experience (UX) Section
 
