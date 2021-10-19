@@ -173,7 +173,6 @@ Throughout the website there are various background and hero imagery of differen
 
  -----
   # Technologies Used
-  
   ## Languages used
 + HTML5
 [View Information ](https://en.wikipedia.org/wiki/HTML5)
