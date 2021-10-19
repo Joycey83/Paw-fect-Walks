@@ -216,7 +216,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 + ## HTML 
    * No more errors or warnings were found when passing all the HTML codes through the W3C Markup Validator.
-   [W3C Markup Validator index.html Results ](assets/images/validator-index.JPG)
+   + [W3C Markup Validator index.html Results ](assets/images/validator-index.JPG)
+   + [W3C Markup Validator about.html Results ](assets/images/validator-about.JPG)
+   + [W3C Markup Validator price.html Results ](assets/images/validator-price.JPG)
+   + [W3C Markup Validator contact.html Results ](assets/images/validator-contact.JPG)
+   + [W3C Markup Validator thanks.html Results ](assets/images/validator-thanks.JPG)
 
 
   
