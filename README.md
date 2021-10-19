@@ -272,6 +272,26 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   1. As a Frequent user, I want to find be able to find new services and new price packages.
   * The user would already be very comfortable with the website layout.
   * As a Frequent User, I want to be emailed any major updates and/or changes to the website or organisation.
+  ---
+  # Deployment
+* ## GitHub Pages
+  This site was deployed to GitHub pages. Plese follow these steps to deploy your site:
+  1. Find the GitHub repository of the project you wish to deploy.
+  2. Click on Settings. The button to the far right in the menu.
+  3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+  4. Scroll down under the "Source", click the dropdown called "None" and select "Master Branch".
+  5. The page will automatically refresh when you click save.
+  6. Scroll back down to the *GitHub pages* section and click *Check it out here!* this will now direct you to the
+  published site link.
+  7. To confirm your deployment of your site it will be highlighted in a blue ribbon. when the site is live it will be highlighted in green.
+  
+   * I have hosted my site on github pages, it can be accessed from the following url: 
+  https://joycey83.github.io/Paw-fect-Walks/
+* ## Forking the GitHub Repository  
+  1. Log in to GitHub and locate the GitHub Repository that you want forked.
+  2. Click on Settings. The button to the far right in the menu. Then locate the "Fork" Button on the settings page.
+  3. A copy of the original repository will be now made and it will be in your GitHub account.
+
 
 
   
