@@ -223,11 +223,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  
 * ## Lighthouse
      The site was tested for both desktop and mobile. The scores are given via Google Lighthouse report. Multiple tests was conducted, ranging from Performance to SEO levels.
-  * [W3C Markup Validator index.html Results ](assets/images/desktop-index.JPG)
-  * [W3C Markup Validator index.html Results ](assets/images/desktop-about.JPG)
-  * [W3C Markup Validator index.html Results ](assets/images/desktop-price.JPG)
-  * [W3C Markup Validator index.html Results ](assets/images/desktop-contact.JPG)
-  * [W3C Markup Validator index.html Results ](assets/images/desktop-thanks.JPG)
++ Desktop
+  * [Lighthouse scores for index.html ](assets/images/desktop-index.JPG)
+  * [Lighthouse scores for about.html ](assets/images/desktop-about.JPG)
+  * [Lighthouse scores for price.html](assets/images/desktop-price.JPG)
+  * [Lighthouse scores for contact.html](assets/images/desktop-contact.JPG)
+  * [Lighthouse scores for thanks.html ](assets/images/desktop-thanks.JPG)
++ Mobile
+  * [Lighthouse scores for index.html ](assets/images/lighthouse-index.JPG)
+  * [Lighthouse scores for about.html ](assets/images/lighthouse-about.JPG)
+  * [Lighthouse scores for price.html](assets/images/lighthouse-price.JPG)
+  * [Lighthouse scores for contact.html](assets/images/lighthouse-contact.JPG)
+  * [Lighthouse scores for thanks.html ](assets/images/lighthouse-thanks.JPG)  
 ----
 # Testing User Stories from User Experience (UX) Section
 
