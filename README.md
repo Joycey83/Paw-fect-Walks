@@ -94,6 +94,7 @@ Throughout the website there are various background and hero imagery of differen
   * Mobile
   [View Mobile Wireframes](assets/images/mobile-wireframes.jpg)
 
+-----
 # Features
 ## Existing Features
 
@@ -170,8 +171,9 @@ Throughout the website there are various background and hero imagery of differen
   * Log in system for existing customers so that if they have a profile on our website they could check payment history and they could see daily updates about their dogs, especially when the company expands to other services like dog sitting and dog boarding.
   * Online booking system will be implemented in the future for existing and protential users so that it will be easier to book walks because as of now users will need to fill in the contact form, call or phone us to make a booking.
 
-  ----
+ -----
   # Technologies Used
+  
   ## Languages used
 + HTML5
 [View Information ](https://en.wikipedia.org/wiki/HTML5)
@@ -193,7 +195,7 @@ Throughout the website there are various background and hero imagery of differen
 6. Git was used for my project workspace.All the codes are saved on Git. All my codes was committed on Git and pushed to Github.
 [Git ](https://en.wikipedia.org/wiki/Git)
 7. GitHub was used to store the codes from my project after being pushed from Git.
-[Git ](https://en.wikipedia.org/wiki/GitHub)
+[GitHub ](https://en.wikipedia.org/wiki/GitHub)
 
 ----
 # Testing
