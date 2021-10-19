@@ -190,11 +190,36 @@ Throughout the website there are various background and hero imagery of differen
 [Window 10 Paint](assets/images/paint.JPG)
 5. Balsamiq was used to create the wireframes during the design process.
 [Balsamiq ](https://balsamiq.com/wireframes/?gclid=CjwKCAjw2bmLBhBREiwAZ6ugo1QxIXgRy5ZEQs1vd9gCXmKeC4o2Mzk23m-ooHCIrcS84BxMiZbe5RoCcEIQAvD_BwE)
-6. Git was used for my project workspace.All the codes are saved on Git. All my codes was committed on Git and pushed to Github
+6. Git was used for my project workspace.All the codes are saved on Git. All my codes was committed on Git and pushed to Github.
 [Git ](https://en.wikipedia.org/wiki/Git)
-7. GitHub was used to store the codes from my project after being pushed from Git
+7. GitHub was used to store the codes from my project after being pushed from Git.
 [Git ](https://en.wikipedia.org/wiki/GitHub)
 
+----
+# Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process I only incured 1 red error on W3C CSS and 7 yellow warnings on W3C Markup. They have all been recified and fixed during the validation process.
+
+
+* **Error**
+  * I fixed this error by changing the padding from auto to 0%.
+  [View Error](assets/images/CSS-warning.PNG)
+
+* **Warnings**
+  * I fixed all these warnings on W3C Markup Validator by changing all H1 headings to H2 headings and for the Hero Image section I added a H2 Hidden element as I created a hero image inside a section element without a level heading.
+  [View Warnings](assets/images/heading-warning.PNG)
+
+  After recitying all the errors and warnings all my pages on HTML and CSS are now free from any errors and warnings.
+
++ ## CSS 
+   * No more errors or warnings were found when passing all the CSS codes through the Jigsaw W3C CSS Validator.
+   [W3C CSS Validator Results ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoycey83.github.io%2FPaw-fect-Walks%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
++ ## HTML 
+   * No more errors or warnings were found when passing all the HTML codes through the W3C Markup Validator.
+   [W3C Markup Validator index.html Results ](https://validator.w3.org/nu/#textarea)
+
+
+  
 
 
 

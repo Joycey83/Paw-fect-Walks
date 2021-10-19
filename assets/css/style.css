@@ -704,7 +704,7 @@ border-bottom: 1px solid #A0522D;
   padding: 40px 0px;
 }
 
-.container .title h1::after {
+.container .title h2::after {
   content: "";
   height: 6px;
   width: 180px;
