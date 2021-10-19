@@ -163,13 +163,20 @@ Throughout the website there are various background and hero imagery of differen
   [View Mobile version of Footer](assets/images/mobile-footer.JPG)
 * **Features left to implement**
 
-  There are quite a few features that I like to implement in the future for this website
+  There are quite a few features that I like to implement in the future for this website:
   * A Paw-fect Walk blog page or section, so I can give regular updates about my own dogs so that there are more interaction with the wider community of Croydon.
   * When the company expands in the future new services such as Dog sitting, Dog boarding will be added to the website for new and existing users.
   * Gallery page to increase more traffic to my website as the human brain processes images a lot faster than processing text or content. by showcasing a vast of images this will encourage protential customers to connect with you and your company too, this will help them to decide if they want to be using your services.
   * Log in system for existing customers so that if they have a profile on our website they could check payment history and they could see daily updates about their dogs, especially when the company expands to other services like dog sitting and dog boarding.
   * Online booking system will be implemented in the future for existing and protential users so that it will be easier to book walks because as of now users will need to fill in the contact form, call or phone us to make a booking.
-  
+
+  ----
+  # Technologies Used
+  ## Languages used
++ HTML5
+[View Information ](https://en.wikipedia.org/wiki/HTML5)
++ CSS
+[View Information ](https://en.wikipedia.org/wiki/CSS)
 
 
 
