@@ -334,7 +334,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   [View ](https://www.markdownguide.org/cheat-sheet/)
   * I also used the website my colorspace to get a really good variations of the Tri-color of Black, Brown and white for my color scheme of my whole site.
   [View ](https://mycolor.space/?hex=%23785AA6&sub=1)
-
+  * I have done an fair amount of research on W3School learning different concepts such as CSS Grid, Flex Box, button animation and flip cards.
+  [View ](https://www.w3schools.com/css/css3_animations.asp) 
+  
 
 ---
 ## Acknowledgement
