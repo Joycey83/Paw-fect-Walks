@@ -324,10 +324,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * **Imagery**
   * All imagery of the dogs and background for this site was taken from a image website called Pixabay
   [View ](https://pixabay.com/)
+* **Imagery**
+  * All the content was partially written by me but some of the content was based on a few dog walking websites that I have found on Google.
+  [View ](https://www.charliebearspetcare.co.uk/)
+  [View ](https://uk.dogbuddy.com/dog-walking)
 
+  
 ---
 ## Acknowledgement
----
+* My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
+  * I got a lot of help from my fellow Slackers from the Slack community. A special thanks to Jonny Whittle he has helped me immensely when I was really stuck on doing Media Queries. 
+  * The Tutors at Code Institute who gave me the right guidence when I was stuck through out my project.
+  
 
   
   
