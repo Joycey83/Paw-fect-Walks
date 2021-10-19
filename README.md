@@ -220,6 +220,38 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    + [W3C Markup Validator contact.html Results ](assets/images/validator-contact.JPG)
    + [W3C Markup Validator thanks.html Results ](assets/images/validator-thanks.JPG)
 
+ 
+* ## Lighthouse
+     The site was tested for both desktop and mobile. The scores are given via Google Lighthouse report. Multiple tests was conducted, ranging from Performance to SEO levels.
+  * [W3C Markup Validator index.html Results ](assets/images/desktop-index.JPG)
+  * [W3C Markup Validator index.html Results ](assets/images/desktop-about.JPG)
+  * [W3C Markup Validator index.html Results ](assets/images/desktop-price.JPG)
+  * [W3C Markup Validator index.html Results ](assets/images/desktop-contact.JPG)
+  * [W3C Markup Validator index.html Results ](assets/images/desktop-thanks.JPG)
+----
+# Testing User Stories from User Experience (UX) Section
+
+- ### First Time User
+  1. As a first time user, I want to easily understand the main purpose of the site and learn more about the organisation.
+   * As a first time users going onto the website, a clean and uncomplicated navigation bar should be presented so that the user will be able to navigate easily to the pages of their choice.
+   * A captivating hero image will grab the attention of first time users to stay on the site.
+   2. As a first time user I will want to be able to easily navigate through out the site to find the content that I want to read and see
+   * The site was designed to be simple and easy to use, At the top of each page there is a clean and simple to use navigation bar, each link when clicked will direct you to the option that you choose.For example when Price button is clicked that will be the page that will open up.
+   * At the bottom of footer on all the pages including the Thank you page the user will have access to all the social media links at any given time. This enables the user to be able to research the company in depth or engage with past and future users in the community.
+   * On the contact Us page, when the form is submitted by the user they will be directed to a Thank you page. Even though they have been redirected the user will not feel trapped on the page because at the very top the easy to access navigation bar will also be presented for the user. The easy to access flow of the site will not be broken.
+- ### Returning Users
+  1. As a returning user, I want to find be able to find new testimonals and new price packages.
+  * New testimonals will effectively show up on the testimonal section on the home page for the user but to see new price plans the user will need to navigate onto the price page.
+  2. As a returning user,  I want to find the best way to get in contact with the organisation for any questions that I may have.
+  * The navigation bar clearly shows the *Contact Us* link.
+  * On this page they can fill out the form or they are provided with traditional channels of contacting the company via phone and by post.
+  * The footer are on every page of the site and it contains links to the companys Facebook, Twitter and Instagram page.
+  * Whichever social media link that they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+- ### Frequent Users
+  1. As a Frequent user, I want to find be able to find new services and new price packages.
+  * The user would already be very comfortable with the website layout.
+  * As a Frequent User, I want to be emailed any major updates and/or changes to the website or organisation.
+
 
   
 
