@@ -320,7 +320,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    [View ](https://www.youtube.com/watch?v=8RFv2GZvte4&list=PL96xVQjLpfmWsnHRjGXFTtPPONxg4h8HY&index=1&t=67s)
    * All the media Queries that I learnt to do was from W3School. I got the code reference from W3School
     [View ](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-    * 
+    
 * **Imagery**
   * All imagery of the dogs and background for this site was taken from a image website called Pixabay
   [View ](https://pixabay.com/)
