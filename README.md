@@ -313,7 +313,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   Called The WebShala. Coding referenced on this video was partially used but amended to my own needs for my site.
   [View ](https://www.youtube.com/watch?v=uW_p8_hOfQw&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=77)
   * For the About Us page. I have taken inspiration from a YouTuber channel called
-  Called Learn Web. Coding referenced on this video was used but amended to my own needs for my site.
+  Learn Web. Coding referenced on this video was used but amended to my own needs for my site.
   [View ](https://www.youtube.com/watch?v=ZTh9cDjyf8U&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=25&t=91s)
   * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Intitiute. The code reference on Validation was taken from Coders Coffee Project and
   YouTuber Coding Tutorials.But amended to my own needs for my site.
