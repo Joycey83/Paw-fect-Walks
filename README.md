@@ -216,7 +216,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 + ## HTML 
    * No more errors or warnings were found when passing all the HTML codes through the W3C Markup Validator.
-   [W3C Markup Validator index.html Results ](https://validator.w3.org/nu/#textarea)
+   [W3C Markup Validator index.html Results ](assets/images/validator-index.JPG)
 
 
   
