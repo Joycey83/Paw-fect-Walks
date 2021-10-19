@@ -292,6 +292,38 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   2. Click on Settings. The button to the far right in the menu. Then locate the "Fork" Button on the settings page.
   3. A copy of the original repository will be now made and it will be in your GitHub account.
 
+--- 
+# Credit & Acknowledgement
+* **Code**
+  * For my navigation bar I have taken inspiration from a YouTuber channel called Web Master. Coding referenced on this video was partially used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=paUdvVuJTZc&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=20)
+
+  * For my 5 reason section on the Home page with text over an image I have taken inspiration from a YouTuber channel called
+  zFunx Web Developement Ideas. Coding referenced on this video was partially used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=EXWjMswCuf8&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=44)
+
+  * For my testimonal section on the home page.I have taken inspiration from a YouTuber channel called
+  Called Coding Nepal. Coding referenced on this video was partially used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=-XX6MgbzQa8&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=131)
+  * For my Accrediation section. I have taken Inspiration from the Love Running Project that I done with Code Intitiute. The code referenced that was used was the Meeting Times section on the love Running project.
+  * The Footer section. I have taken Inspiration from the Love Running Project & Coders Coffee Project that I done with Code Intitiute. The code reference was partially taken from Love Running and Coders Coffee Project and
+  YouTuber Code Opacity.But amended to my own needs for my site.
+   [View ](https://www.youtube.com/watch?v=zdA3qZNH1vc&t=10s)
+   * For my Price Plan cards. I have taken inspiration from a YouTuber channel called
+  Called The WebShala. Coding referenced on this video was partially used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=uW_p8_hOfQw&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=77)
+  * For the About Us page. I have taken inspiration from a YouTuber channel called
+  Called Learn Web. Coding referenced on this video was used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=ZTh9cDjyf8U&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=25&t=91s)
+  * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Intitiute. The code reference on Validation was taken from Coders Coffee Project and
+  YouTuber Coding Tutorials.But amended to my own needs for my site.
+   [View ](https://www.youtube.com/watch?v=8RFv2GZvte4&list=PL96xVQjLpfmWsnHRjGXFTtPPONxg4h8HY&index=1&t=67s)
+   * All the media Queries that I learnt to do was from W3School. I got the code reference from W3School
+    [View ](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+
+
+
 
 
   
