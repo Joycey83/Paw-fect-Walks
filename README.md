@@ -324,12 +324,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * **Imagery**
   * All imagery of the dogs and background for this site was taken from a image website called Pixabay
   [View ](https://pixabay.com/)
-* **Imagery**
+* **Content**
   * All the content was partially written by me but some of the content was based on a few dog walking websites that I have found on Google.
-  [View ](https://www.charliebearspetcare.co.uk/)
-  [View ](https://uk.dogbuddy.com/dog-walking)
+  * [View Charliebear ](https://www.charliebearspetcare.co.uk/)
+  * [View dogbuddy ](https://uk.dogbuddy.com/dog-walking)
 
-  
+* **Other Resources**
+  * I learnt and researched Markdown Syntax for my README file from a website called Mark Down Guide. This enabled me to learn how to use the correct syntax so that I can do the README file properly.
+  [View ](https://www.markdownguide.org/cheat-sheet/)
+  * I also used the website my colorspace to get a really good variations of the Tri-color of Black, Brown and white for my color scheme of my whole site.
+  [View ](https://mycolor.space/?hex=%23785AA6&sub=1)
+
+
 ---
 ## Acknowledgement
 * My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
