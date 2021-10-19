@@ -223,25 +223,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
  
 * ## Lighthouse
      The site was tested for both desktop and mobile. The scores are given via Google Lighthouse report. Multiple tests was conducted, ranging from Performance to SEO levels.
-+ Desktop
++ **Desktop**
   * [Lighthouse scores for index.html ](assets/images/desktop-index.JPG)
   * [Lighthouse scores for about.html ](assets/images/desktop-about.JPG)
   * [Lighthouse scores for price.html](assets/images/desktop-price.JPG)
   * [Lighthouse scores for contact.html](assets/images/desktop-contact.JPG)
   * [Lighthouse scores for thanks.html ](assets/images/desktop-thanks.JPG)
-+ Mobile
++ **Mobile**
   * [Lighthouse scores for index.html ](assets/images/lighthouse-index.JPG)
   * [Lighthouse scores for about.html ](assets/images/lighthouse-about.JPG)
   * [Lighthouse scores for price.html](assets/images/lighthouse-price.JPG)
   * [Lighthouse scores for contact.html](assets/images/lighthouse-contact.JPG)
-  * [Lighthouse scores for thanks.html ](assets/images/lighthouse-thanks.JPG)  
+  * [Lighthouse scores for thanks.html ](assets/images/lighthouse-thanks.JPG) 
++ For most of the pages the scores are 100 for best practice, Accessibility and SEO. Performances on the other hand do range from high 70's to 100 for some pages on desktop and mobile devices. This is mainly due to the large hero image that is being used.
 
-* ## responsiveness
+* ## Responsiveness
   The site was tested with the Chrome Dev tool and the website Responsinator to determine how well it would look on various tablet and mobile devices.
   * Chrome Dev Tool
   [View ](assets/images/dev-tool.jpg) 
   * Responsinator
   [View ](https://www.responsinator.com/?url=https%3A%2F%2Fjoycey83.github.io%2FPaw-fect-Walks%2F)
+* ## Compatibility
+  * The site has been checked for compatibility on Chrome, Edge and Firefox. The site was not tested on Safari browser as I do not own any Apple devices or do I know any one who does.
+* ## Bugs
+  * On my Contact page there is a very minute thin gap between the bottom of the navigation bar and the top of background image. I have tried changing the image, adjusted the CSS code numerous times and asked for help from my fellow slackers but the gap is still persistently showing. This tiny gap only shows when the website is opened on the desktop. The tiny gap does not show on mobile and some tablet devices depending on the size.
+  [View Bugs ](assets/images/bugs.jpg) 
 
 ----
 # Testing User Stories from User Experience (UX) Section
