@@ -315,11 +315,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   * For the About Us page. I have taken inspiration from a YouTuber channel called
   Learn Web. Coding referenced on this video was used but amended to my own needs for my site.
   [View ](https://www.youtube.com/watch?v=ZTh9cDjyf8U&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=25&t=91s)
-  * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Intitiute. The code reference on Validation was taken from Coders Coffee Project and
+  * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Institiute. The code reference on Validation was taken from Coders Coffee Project and
   YouTuber Coding Tutorials.But amended to my own needs for my site.
    [View ](https://www.youtube.com/watch?v=8RFv2GZvte4&list=PL96xVQjLpfmWsnHRjGXFTtPPONxg4h8HY&index=1&t=67s)
    * All the media Queries that I learnt to do was from W3School. I got the code reference from W3School
     [View ](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+   * My README file that I have written are based on the Code Institute Sample README file. Some of the headings are taken from it and some of the content are based on it as well.
+   [View ](https://github.com/Code-Institute-Solutions/SampleREADME)
+
     
 * **Imagery**
   * All imagery of the dogs and background for this site was taken from a image website called Pixabay
