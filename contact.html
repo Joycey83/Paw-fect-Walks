@@ -43,7 +43,7 @@
             </ul>
         </nav>
     </header>
-    
+
 
 
     <section class="body" id="bg-picture">
@@ -60,13 +60,22 @@
             <div class="contact-in">
                 <h2>Book a Walk or Send a Message</h2>
                 <form action="thanks.html" method="get">
-                    <input type="text" placeholder="Full Name" class="contact-in-input" required>
-                    <input type="text" placeholder="Email" class="contact-in-input" required>
-                    <input type="text" placeholder="Subject" class="contact-in-input" required>
+                    <div>
+                        <label for="name-field">Name</label>
+                        <input id="name-field" type="text" placeholder="Full Name" class="contact-in-input" required>
+                    </div>
+                    <div>
+                        <label for="email-field">E-mail</label>
+                        <input id="email-field" type="email" placeholder="Email" class="contact-in-input" required>
+                    </div>
+                    <div>
+                        <label for="subject-field">Subject</label>
+                        <input id="subject-field" type="text" placeholder="Subject" class="contact-in-input" required>
+                    </div>
                     <textarea placeholder="Message" class="contact-in-textarea" required></textarea>
-                    
-                        <input type="submit" value="SUBMIT" class="contact-in-btn">
-                    
+
+                    <input type="submit" value="SUBMIT" class="contact-in-btn">
+
                 </form>
             </div>
             <div class="contact-in">
