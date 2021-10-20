@@ -320,8 +320,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
    [View ](https://www.youtube.com/watch?v=8RFv2GZvte4&list=PL96xVQjLpfmWsnHRjGXFTtPPONxg4h8HY&index=1&t=67s)
    * All the media Queries that I learnt to do was from W3School. I got the code reference from W3School
     [View ](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-   * My README file that I have written are based on the Code Institute Sample README file. Some of the headings are taken from it and some of the content are based on it as well.
-   [View ](https://github.com/Code-Institute-Solutions/SampleREADME)
+   
 
     
 * **Imagery**
@@ -335,6 +334,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * **Other Resources**
   * I learnt and researched Markdown Syntax for my README file from a website called Mark Down Guide. This enabled me to learn how to use the correct syntax so that I can do the README file properly.
   [View ](https://www.markdownguide.org/cheat-sheet/)
+  * My README file that I have written are based on the Code Institute Sample README file. Some of the headings are taken from it and some of the content are based on it as well.
+   [View ](https://github.com/Code-Institute-Solutions/SampleREADME)
   * I also used the website my colorspace to get a really good variations of the Tri-color of Black, Brown and white for my color scheme of my whole site.
   [View ](https://mycolor.space/?hex=%23785AA6&sub=1)
   * I have done an fair amount of research on W3School learning different concepts such as CSS Grid, Flex Box, button animation and flip cards.
