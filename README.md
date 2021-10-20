@@ -310,13 +310,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   YouTuber Code Opacity.But amended to my own needs for my site.
    [View ](https://www.youtube.com/watch?v=zdA3qZNH1vc&t=10s)
    * For my Price Plan cards. I have taken inspiration from a YouTuber channel called
-  Called The WebShala. Coding referenced on this video was partially used but amended to my own needs for my site.
+  The WebShala. Coding referenced on this video was partially used but amended to my own needs for my site.
   [View ](https://www.youtube.com/watch?v=uW_p8_hOfQw&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=77)
   * For the About Us page. I have taken inspiration from a YouTuber channel called
   Learn Web. Coding referenced on this video was used but amended to my own needs for my site.
   [View ](https://www.youtube.com/watch?v=ZTh9cDjyf8U&list=PL96xVQjLpfmUgOIB83X768xYQbb6pRW3P&index=25&t=91s)
-  * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Institiute. The code reference on Validation was taken from Coders Coffee Project and
-  YouTuber Coding Tutorials.But amended to my own needs for my site.
+  * For the Contact Us page. I have taken Inspiration from the Coders Coffee Project that I done with Code Institiute and from YouTuber Coding Tutorials but I amended to my own needs for my site.The code reference on Validation was taken from Coders Coffee Project.
    [View ](https://www.youtube.com/watch?v=8RFv2GZvte4&list=PL96xVQjLpfmWsnHRjGXFTtPPONxg4h8HY&index=1&t=67s)
    * All the media Queries that I learnt to do was from W3School. I got the code reference from W3School
     [View ](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
